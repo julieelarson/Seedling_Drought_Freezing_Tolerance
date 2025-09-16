@@ -1,0 +1,2284 @@
+pot_id,species,freeze_temp,pot,replicate,development_category,survival
+ACHHYM-2-1,ACHHYM,-2,1,1,normal,1
+ACHHYM-2-1,ACHHYM,-2,1,2,normal,1
+ACHHYM-2-1,ACHHYM,-2,1,3,normal,1
+ACHHYM-2-2,ACHHYM,-2,2,1,normal,1
+ACHHYM-2-2,ACHHYM,-2,2,2,leaf not exposed,0
+ACHHYM-2-2,ACHHYM,-2,2,3,small size,1
+ACHHYM-2-3,ACHHYM,-2,3,1,normal,1
+ACHHYM-2-3,ACHHYM,-2,3,2,normal,1
+ACHHYM-2-3,ACHHYM,-2,3,3,normal,1
+ACHHYM-2-4,ACHHYM,-2,4,1,small size,1
+ACHHYM-2-4,ACHHYM,-2,4,2,leaf not exposed,0
+ACHHYM-2-4,ACHHYM,-2,4,3,normal,1
+ACHHYM-4-1,ACHHYM,-4,1,1,leaf not exposed,1
+ACHHYM-4-1,ACHHYM,-4,1,2,normal,0
+ACHHYM-4-1,ACHHYM,-4,1,3,small size,0
+ACHHYM-4-2,ACHHYM,-4,2,1,normal,1
+ACHHYM-4-2,ACHHYM,-4,2,3,small size,1
+ACHHYM-4-3,ACHHYM,-4,3,1,normal,1
+ACHHYM-4-3,ACHHYM,-4,3,2,normal,1
+ACHHYM-4-3,ACHHYM,-4,3,3,normal,1
+ACHHYM-4-4,ACHHYM,-4,4,1,normal,1
+ACHHYM-4-4,ACHHYM,-4,4,2,leaf not exposed,1
+ACHHYM-4-4,ACHHYM,-4,4,3,leaf not exposed,1
+ACHHYM-6-1,ACHHYM,-6,1,1,normal,0
+ACHHYM-6-2,ACHHYM,-6,2,1,normal,0
+ACHHYM-6-2,ACHHYM,-6,2,2,leaf not exposed,0
+ACHHYM-6-2,ACHHYM,-6,2,3,normal,0
+ACHHYM-6-3,ACHHYM,-6,3,2,normal,0
+ACHHYM-6-3,ACHHYM,-6,3,3,normal,1
+ACHHYM-6-4,ACHHYM,-6,4,1,normal,0
+ACHHYM-6-4,ACHHYM,-6,4,2,normal,1
+ACHHYM-6-4,ACHHYM,-6,4,3,normal,1
+ACHHYM-8-1,ACHHYM,-8,1,1,normal,0
+ACHHYM-8-1,ACHHYM,-8,1,2,normal,0
+ACHHYM-8-1,ACHHYM,-8,1,3,normal,0
+ACHHYM-8-2,ACHHYM,-8,2,1,normal,0
+ACHHYM-8-2,ACHHYM,-8,2,2,normal,0
+ACHHYM-8-2,ACHHYM,-8,2,3,normal,0
+ACHHYM-8-3,ACHHYM,-8,3,1,small size,0
+ACHHYM-8-3,ACHHYM,-8,3,2,small size,0
+ACHHYM-8-3,ACHHYM,-8,3,3,leaf not exposed,0
+ACHHYM-8-4,ACHHYM,-8,4,1,leaf not exposed,0
+ACHHYM-8-4,ACHHYM,-8,4,2,normal,0
+ACHHYM-8-4,ACHHYM,-8,4,3,small size,0
+ACHMIL-2-1,ACHMIL,-2,1,1,true leaves,1
+ACHMIL-2-1,ACHMIL,-2,1,2,true leaves,1
+ACHMIL-2-1,ACHMIL,-2,1,3,true leaves,1
+ACHMIL-2-2,ACHMIL,-2,2,1,normal,1
+ACHMIL-2-2,ACHMIL,-2,2,2,normal,1
+ACHMIL-2-2,ACHMIL,-2,2,3,normal,1
+ACHMIL-2-3,ACHMIL,-2,3,1,normal,1
+ACHMIL-2-3,ACHMIL,-2,3,2,normal,1
+ACHMIL-2-3,ACHMIL,-2,3,3,normal,1
+ACHMIL-2-4,ACHMIL,-2,4,1,normal,1
+ACHMIL-2-4,ACHMIL,-2,4,2,normal,1
+ACHMIL-2-4,ACHMIL,-2,4,3,normal,1
+ACHMIL-4-1,ACHMIL,-4,1,1,normal,1
+ACHMIL-4-1,ACHMIL,-4,1,2,normal,1
+ACHMIL-4-1,ACHMIL,-4,1,3,normal,1
+ACHMIL-4-2,ACHMIL,-4,2,1,normal,1
+ACHMIL-4-2,ACHMIL,-4,2,2,normal,1
+ACHMIL-4-2,ACHMIL,-4,2,3,normal,1
+ACHMIL-4-3,ACHMIL,-4,3,1,normal,1
+ACHMIL-4-3,ACHMIL,-4,3,2,normal,1
+ACHMIL-4-3,ACHMIL,-4,3,3,normal,1
+ACHMIL-4-4,ACHMIL,-4,4,1,true leaves,1
+ACHMIL-4-4,ACHMIL,-4,4,2,true leaves,1
+ACHMIL-4-4,ACHMIL,-4,4,3,true leaves,1
+ACHMIL-6-1,ACHMIL,-6,1,1,true leaves,1
+ACHMIL-6-1,ACHMIL,-6,1,2,true leaves,1
+ACHMIL-6-1,ACHMIL,-6,1,3,true leaves,0
+ACHMIL-6-2,ACHMIL,-6,2,1,normal,1
+ACHMIL-6-2,ACHMIL,-6,2,2,normal,0
+ACHMIL-6-2,ACHMIL,-6,2,3,normal,1
+ACHMIL-6-3,ACHMIL,-6,3,1,normal,1
+ACHMIL-6-3,ACHMIL,-6,3,2,normal,1
+ACHMIL-6-3,ACHMIL,-6,3,3,normal,1
+ACHMIL-6-4,ACHMIL,-6,4,1,normal,1
+ACHMIL-6-4,ACHMIL,-6,4,2,normal,1
+ACHMIL-6-4,ACHMIL,-6,4,3,normal,1
+ACHMIL-8-1,ACHMIL,-8,1,1,normal,0
+ACHMIL-8-1,ACHMIL,-8,1,2,normal,0
+ACHMIL-8-1,ACHMIL,-8,1,3,normal,0
+ACHMIL-8-2,ACHMIL,-8,2,1,normal,0
+ACHMIL-8-2,ACHMIL,-8,2,2,normal,0
+ACHMIL-8-2,ACHMIL,-8,2,3,normal,0
+ACHMIL-8-3,ACHMIL,-8,3,1,normal,0
+ACHMIL-8-3,ACHMIL,-8,3,2,true leaves,0
+ACHMIL-8-3,ACHMIL,-8,3,3,true leaves,0
+ACHMIL-8-4,ACHMIL,-8,4,1,normal,0
+ACHMIL-8-4,ACHMIL,-8,4,2,normal,0
+ACHMIL-8-4,ACHMIL,-8,4,3,normal,0
+AGOGRA-2-1,AGOGRA,-2,1,1,normal,1
+AGOGRA-2-1,AGOGRA,-2,1,2,normal,1
+AGOGRA-2-1,AGOGRA,-2,1,3,normal,1
+AGOGRA-2-2,AGOGRA,-2,2,1,normal,1
+AGOGRA-2-2,AGOGRA,-2,2,2,normal,1
+AGOGRA-2-2,AGOGRA,-2,2,3,normal,1
+AGOGRA-2-3,AGOGRA,-2,3,1,normal,1
+AGOGRA-2-3,AGOGRA,-2,3,2,normal,1
+AGOGRA-2-3,AGOGRA,-2,3,3,normal,1
+AGOGRA-2-4,AGOGRA,-2,4,1,normal,1
+AGOGRA-2-4,AGOGRA,-2,4,2,normal,1
+AGOGRA-2-4,AGOGRA,-2,4,3,normal,1
+AGOGRA-4-1,AGOGRA,-4,1,1,normal,1
+AGOGRA-4-1,AGOGRA,-4,1,2,normal,1
+AGOGRA-4-1,AGOGRA,-4,1,3,normal,1
+AGOGRA-4-2,AGOGRA,-4,2,1,normal,1
+AGOGRA-4-2,AGOGRA,-4,2,2,normal,1
+AGOGRA-4-2,AGOGRA,-4,2,3,abnormal development,1
+AGOGRA-4-3,AGOGRA,-4,3,1,normal,1
+AGOGRA-4-3,AGOGRA,-4,3,2,normal,1
+AGOGRA-4-3,AGOGRA,-4,3,3,normal,1
+AGOGRA-4-4,AGOGRA,-4,4,1,normal,1
+AGOGRA-4-4,AGOGRA,-4,4,2,normal,1
+AGOGRA-4-4,AGOGRA,-4,4,3,normal,1
+AGOGRA-6-1,AGOGRA,-6,1,1,normal,1
+AGOGRA-6-1,AGOGRA,-6,1,2,normal,1
+AGOGRA-6-1,AGOGRA,-6,1,3,normal,1
+AGOGRA-6-2,AGOGRA,-6,2,1,normal,1
+AGOGRA-6-2,AGOGRA,-6,2,2,normal,1
+AGOGRA-6-2,AGOGRA,-6,2,3,normal,1
+AGOGRA-6-3,AGOGRA,-6,3,1,normal,1
+AGOGRA-6-3,AGOGRA,-6,3,2,normal,1
+AGOGRA-6-3,AGOGRA,-6,3,3,normal,1
+AGOGRA-6-4,AGOGRA,-6,4,1,normal,1
+AGOGRA-6-4,AGOGRA,-6,4,2,normal,1
+AGOGRA-6-4,AGOGRA,-6,4,3,normal,1
+AGOGRA-8-1,AGOGRA,-8,1,1,normal,0
+AGOGRA-8-1,AGOGRA,-8,1,2,normal,1
+AGOGRA-8-1,AGOGRA,-8,1,3,normal,0
+AGOGRA-8-2,AGOGRA,-8,2,1,normal,0
+AGOGRA-8-2,AGOGRA,-8,2,2,normal,0
+AGOGRA-8-3,AGOGRA,-8,3,1,normal,0
+AGOGRA-8-3,AGOGRA,-8,3,2,normal,0
+AGOGRA-8-3,AGOGRA,-8,3,3,normal,0
+AGOGRA-8-4,AGOGRA,-8,4,1,normal,0
+AGOGRA-8-4,AGOGRA,-8,4,2,normal,0
+AGOGRA-8-4,AGOGRA,-8,4,3,normal,0
+AGRCRI-2-1,AGRCRI,-2,1,1,small size,1
+AGRCRI-2-1,AGRCRI,-2,1,2,normal,1
+AGRCRI-2-1,AGRCRI,-2,1,3,normal,1
+AGRCRI-2-2,AGRCRI,-2,2,1,normal,1
+AGRCRI-2-2,AGRCRI,-2,2,2,normal,1
+AGRCRI-2-2,AGRCRI,-2,2,3,normal,1
+AGRCRI-2-3,AGRCRI,-2,3,1,normal,1
+AGRCRI-2-3,AGRCRI,-2,3,2,small size,1
+AGRCRI-2-3,AGRCRI,-2,3,3,normal,1
+AGRCRI-2-4,AGRCRI,-2,4,1,small size,1
+AGRCRI-2-4,AGRCRI,-2,4,2,normal,1
+AGRCRI-4-1,AGRCRI,-4,1,1,leaf not exposed,1
+AGRCRI-4-1,AGRCRI,-4,1,2,normal,1
+AGRCRI-4-1,AGRCRI,-4,1,3,leaf not exposed,1
+AGRCRI-4-2,AGRCRI,-4,2,1,normal,1
+AGRCRI-4-2,AGRCRI,-4,2,2,leaf not exposed,1
+AGRCRI-4-2,AGRCRI,-4,2,3,normal,1
+AGRCRI-4-3,AGRCRI,-4,3,1,normal,1
+AGRCRI-4-3,AGRCRI,-4,3,2,normal,1
+AGRCRI-4-3,AGRCRI,-4,3,3,normal,1
+AGRCRI-4-4,AGRCRI,-4,4,1,normal,1
+AGRCRI-4-4,AGRCRI,-4,4,2,normal,1
+AGRCRI-4-4,AGRCRI,-4,4,3,normal,1
+AGRCRI-6-1,AGRCRI,-6,1,1,normal,1
+AGRCRI-6-1,AGRCRI,-6,1,2,normal,1
+AGRCRI-6-1,AGRCRI,-6,1,3,normal,1
+AGRCRI-6-2,AGRCRI,-6,2,1,normal,1
+AGRCRI-6-2,AGRCRI,-6,2,2,normal,1
+AGRCRI-6-2,AGRCRI,-6,2,3,normal,1
+AGRCRI-6-3,AGRCRI,-6,3,1,normal,1
+AGRCRI-6-3,AGRCRI,-6,3,2,normal,1
+AGRCRI-6-3,AGRCRI,-6,3,3,leaf not exposed,1
+AGRCRI-6-4,AGRCRI,-6,4,1,normal,0
+AGRCRI-6-4,AGRCRI,-6,4,2,normal,1
+AGRCRI-6-4,AGRCRI,-6,4,3,normal,1
+AGRCRI-8-1,AGRCRI,-8,1,1,normal,0
+AGRCRI-8-1,AGRCRI,-8,1,2,normal,1
+AGRCRI-8-1,AGRCRI,-8,1,3,normal,1
+AGRCRI-8-2,AGRCRI,-8,2,1,normal,1
+AGRCRI-8-2,AGRCRI,-8,2,2,normal,1
+AGRCRI-8-2,AGRCRI,-8,2,3,normal,0
+AGRCRI-8-3,AGRCRI,-8,3,1,normal,1
+AGRCRI-8-3,AGRCRI,-8,3,2,normal,1
+AGRCRI-8-3,AGRCRI,-8,3,3,normal,1
+AGRCRI-8-4,AGRCRI,-8,4,1,normal,1
+AGRCRI-8-4,AGRCRI,-8,4,2,normal,0
+AGRCRI-8-4,AGRCRI,-8,4,3,normal,1
+ARIPUR-2-1,ARIPUR,-2,1,1,normal,1
+ARIPUR-2-1,ARIPUR,-2,1,2,normal,1
+ARIPUR-2-1,ARIPUR,-2,1,3,normal,1
+ARIPUR-2-2,ARIPUR,-2,2,1,normal,1
+ARIPUR-2-2,ARIPUR,-2,2,2,normal,1
+ARIPUR-2-2,ARIPUR,-2,2,3,normal,1
+ARIPUR-2-3,ARIPUR,-2,3,1,normal,1
+ARIPUR-2-3,ARIPUR,-2,3,2,normal,1
+ARIPUR-2-3,ARIPUR,-2,3,3,normal,1
+ARIPUR-2-4,ARIPUR,-2,4,1,normal,1
+ARIPUR-2-4,ARIPUR,-2,4,2,normal,1
+ARIPUR-2-4,ARIPUR,-2,4,3,normal,1
+ARIPUR-4-1,ARIPUR,-4,1,1,normal,1
+ARIPUR-4-1,ARIPUR,-4,1,2,normal,1
+ARIPUR-4-1,ARIPUR,-4,1,3,normal,1
+ARIPUR-4-2,ARIPUR,-4,2,1,normal,1
+ARIPUR-4-2,ARIPUR,-4,2,2,normal,1
+ARIPUR-4-2,ARIPUR,-4,2,3,normal,1
+ARIPUR-4-3,ARIPUR,-4,3,1,normal,1
+ARIPUR-4-3,ARIPUR,-4,3,2,normal,1
+ARIPUR-4-3,ARIPUR,-4,3,3,normal,1
+ARIPUR-4-4,ARIPUR,-4,4,1,normal,1
+ARIPUR-4-4,ARIPUR,-4,4,2,normal,1
+ARIPUR-4-4,ARIPUR,-4,4,3,normal,1
+ARIPUR-6-1,ARIPUR,-6,1,1,normal,0
+ARIPUR-6-1,ARIPUR,-6,1,2,normal,0
+ARIPUR-6-1,ARIPUR,-6,1,3,normal,0
+ARIPUR-6-2,ARIPUR,-6,2,1,normal,0
+ARIPUR-6-2,ARIPUR,-6,2,2,normal,1
+ARIPUR-6-2,ARIPUR,-6,2,3,normal,0
+ARIPUR-6-3,ARIPUR,-6,3,1,normal,1
+ARIPUR-6-3,ARIPUR,-6,3,2,normal,1
+ARIPUR-6-3,ARIPUR,-6,3,3,normal,1
+ARIPUR-6-4,ARIPUR,-6,4,1,normal,1
+ARIPUR-6-4,ARIPUR,-6,4,2,normal,1
+ARIPUR-6-4,ARIPUR,-6,4,3,normal,1
+ARIPUR-8-1,ARIPUR,-8,1,1,normal,0
+ARIPUR-8-1,ARIPUR,-8,1,2,normal,0
+ARIPUR-8-1,ARIPUR,-8,1,3,normal,0
+ARIPUR-8-2,ARIPUR,-8,2,1,normal,0
+ARIPUR-8-2,ARIPUR,-8,2,2,normal,0
+ARIPUR-8-2,ARIPUR,-8,2,3,normal,0
+ARIPUR-8-3,ARIPUR,-8,3,1,normal,0
+ARIPUR-8-3,ARIPUR,-8,3,2,normal,0
+ARIPUR-8-3,ARIPUR,-8,3,3,normal,0
+ARIPUR-8-4,ARIPUR,-8,4,1,normal,0
+ARIPUR-8-4,ARIPUR,-8,4,2,normal,0
+ARIPUR-8-4,ARIPUR,-8,4,3,normal,0
+ARTTRI-2-1,ARTTRI,-2,2,1,normal,1
+ARTTRI-2-1,ARTTRI,-2,2,2,normal,1
+ARTTRI-2-1,ARTTRI,-2,2,3,normal,1
+ARTTRI-2-2,ARTTRI,-2,2,1,normal,1
+ARTTRI-2-2,ARTTRI,-2,2,2,normal,1
+ARTTRI-2-2,ARTTRI,-2,2,3,true leaves,1
+ARTTRI-2-3,ARTTRI,-2,2,1,true leaves,1
+ARTTRI-2-3,ARTTRI,-2,2,2,true leaves,1
+ARTTRI-2-3,ARTTRI,-2,2,3,true leaves,1
+ARTTRI-2-4,ARTTRI,-2,2,1,true leaves,1
+ARTTRI-2-4,ARTTRI,-2,2,2,true leaves,1
+ARTTRI-2-4,ARTTRI,-2,2,3,true leaves,1
+ARTTRI-4-1,ARTTRI,-4,4,1,true leaves,1
+ARTTRI-4-1,ARTTRI,-4,4,2,true leaves,1
+ARTTRI-4-1,ARTTRI,-4,4,3,true leaves,1
+ARTTRI-4-2,ARTTRI,-4,4,1,normal,0
+ARTTRI-4-2,ARTTRI,-4,4,2,normal,1
+ARTTRI-4-2,ARTTRI,-4,4,3,true leaves,1
+ARTTRI-4-3,ARTTRI,-4,4,1,normal,1
+ARTTRI-4-3,ARTTRI,-4,4,2,normal,1
+ARTTRI-4-3,ARTTRI,-4,4,3,true leaves,1
+ARTTRI-4-4,ARTTRI,-4,4,1,normal,1
+ARTTRI-4-4,ARTTRI,-4,4,2,true leaves,1
+ARTTRI-4-4,ARTTRI,-4,4,3,small size,0
+ARTTRI-6-1,ARTTRI,-6,6,1,true leaves,0
+ARTTRI-6-1,ARTTRI,-6,6,2,normal,0
+ARTTRI-6-1,ARTTRI,-6,6,3,true leaves,0
+ARTTRI-6-2,ARTTRI,-6,6,1,true leaves,0
+ARTTRI-6-2,ARTTRI,-6,6,2,true leaves,1
+ARTTRI-6-2,ARTTRI,-6,6,3,true leaves,0
+ARTTRI-6-3,ARTTRI,-6,6,1,normal,0
+ARTTRI-6-3,ARTTRI,-6,6,2,true leaves,0
+ARTTRI-6-3,ARTTRI,-6,6,3,true leaves,0
+ARTTRI-6-4,ARTTRI,-6,6,1,normal,1
+ARTTRI-6-4,ARTTRI,-6,6,2,normal,1
+ARTTRI-6-4,ARTTRI,-6,6,3,normal,1
+ARTTRI-8-1,ARTTRI,-8,8,1,true leaves,0
+ARTTRI-8-1,ARTTRI,-8,8,2,true leaves,0
+ARTTRI-8-1,ARTTRI,-8,8,3,true leaves,0
+ARTTRI-8-2,ARTTRI,-8,8,1,true leaves,0
+ARTTRI-8-2,ARTTRI,-8,8,2,true leaves,0
+ARTTRI-8-2,ARTTRI,-8,8,3,true leaves,0
+ARTTRI-8-3,ARTTRI,-8,8,1,true leaves,0
+ARTTRI-8-3,ARTTRI,-8,8,2,normal,0
+ARTTRI-8-3,ARTTRI,-8,8,3,normal,0
+ARTTRI-8-4,ARTTRI,-8,8,1,true leaves,0
+ARTTRI-8-4,ARTTRI,-8,8,2,true leaves,0
+ARTTRI-8-4,ARTTRI,-8,8,3,true leaves,0
+ASCTUB-2-1,ASCTUB,-2,1,1,normal,1
+ASCTUB-2-1,ASCTUB,-2,1,3,normal,1
+ASCTUB-2-2,ASCTUB,-2,2,1,normal,1
+ASCTUB-2-2,ASCTUB,-2,2,2,normal,1
+ASCTUB-2-2,ASCTUB,-2,2,3,normal,1
+ASCTUB-2-3,ASCTUB,-2,3,1,normal,1
+ASCTUB-2-3,ASCTUB,-2,3,2,normal,1
+ASCTUB-2-3,ASCTUB,-2,3,3,normal,1
+ASCTUB-2-4,ASCTUB,-2,4,1,normal,1
+ASCTUB-2-4,ASCTUB,-2,4,2,normal,1
+ASCTUB-2-4,ASCTUB,-2,4,3,normal,1
+ASCTUB-4-1,ASCTUB,-4,1,1,normal,1
+ASCTUB-4-1,ASCTUB,-4,1,2,normal,1
+ASCTUB-4-1,ASCTUB,-4,1,3,normal,1
+ASCTUB-4-2,ASCTUB,-4,2,1,normal,1
+ASCTUB-4-2,ASCTUB,-4,2,2,normal,1
+ASCTUB-4-2,ASCTUB,-4,2,3,normal,1
+ASCTUB-4-3,ASCTUB,-4,3,1,normal,1
+ASCTUB-4-3,ASCTUB,-4,3,2,normal,0
+ASCTUB-4-3,ASCTUB,-4,3,3,normal,1
+ASCTUB-4-4,ASCTUB,-4,4,1,normal,1
+ASCTUB-4-4,ASCTUB,-4,4,2,normal,1
+ASCTUB-4-4,ASCTUB,-4,4,3,normal,1
+ASCTUB-6-1,ASCTUB,-6,1,1,normal,0
+ASCTUB-6-1,ASCTUB,-6,1,2,leaf not exposed,0
+ASCTUB-6-1,ASCTUB,-6,1,3,normal,1
+ASCTUB-6-2,ASCTUB,-6,2,1,normal,0
+ASCTUB-6-2,ASCTUB,-6,2,2,normal,0
+ASCTUB-6-2,ASCTUB,-6,2,3,normal,0
+ASCTUB-6-3,ASCTUB,-6,3,1,leaf not exposed,0
+ASCTUB-6-3,ASCTUB,-6,3,2,normal,1
+ASCTUB-6-3,ASCTUB,-6,3,3,normal,0
+ASCTUB-6-4,ASCTUB,-6,4,1,normal,0
+ASCTUB-6-4,ASCTUB,-6,4,2,normal,0
+ASCTUB-6-4,ASCTUB,-6,4,3,normal,0
+ASCTUB-8-1,ASCTUB,-8,1,1,normal,0
+ASCTUB-8-1,ASCTUB,-8,1,2,normal,0
+ASCTUB-8-1,ASCTUB,-8,1,3,normal,0
+ASCTUB-8-2,ASCTUB,-8,2,1,normal,0
+ASCTUB-8-2,ASCTUB,-8,2,2,leaf not exposed,0
+ASCTUB-8-2,ASCTUB,-8,2,3,normal,0
+ASCTUB-8-3,ASCTUB,-8,3,1,abnormal development,0
+ASCTUB-8-3,ASCTUB,-8,3,2,normal,0
+ASCTUB-8-3,ASCTUB,-8,3,3,normal,0
+ASCTUB-8-4,ASCTUB,-8,4,1,normal,0
+ASCTUB-8-4,ASCTUB,-8,4,2,normal,0
+ASCTUB-8-4,ASCTUB,-8,4,3,normal,0
+ATRCAN-2-1,ATRCAN,-2,1,1,leaf not exposed,1
+ATRCAN-2-1,ATRCAN,-2,1,1,normal,1
+ATRCAN-2-1,ATRCAN,-2,1,2,normal,1
+ATRCAN-2-1,ATRCAN,-2,1,2,normal,1
+ATRCAN-2-1,ATRCAN,-2,1,3,leaf not exposed,1
+ATRCAN-2-1,ATRCAN,-2,1,3,leaf not exposed,1
+ATRCAN-2-2,ATRCAN,-2,2,1,normal,1
+ATRCAN-2-2,ATRCAN,-2,2,2,abnormal development,1
+ATRCAN-2-2,ATRCAN,-2,2,3,normal,1
+ATRCAN-2-3,ATRCAN,-2,3,1,abnormal development,1
+ATRCAN-2-3,ATRCAN,-2,3,2,normal,1
+ATRCAN-4-1,ATRCAN,-4,1,1,normal,1
+ATRCAN-4-1,ATRCAN,-4,1,1,normal,1
+ATRCAN-4-1,ATRCAN,-4,1,2,normal,1
+ATRCAN-4-1,ATRCAN,-4,1,2,normal,1
+ATRCAN-4-1,ATRCAN,-4,1,3,abnormal development,1
+ATRCAN-4-1,ATRCAN,-4,1,3,normal,1
+ATRCAN-4-2,ATRCAN,-4,2,1,normal,1
+ATRCAN-4-2,ATRCAN,-4,2,2,normal,1
+ATRCAN-4-2,ATRCAN,-4,2,3,abnormal development,1
+ATRCAN-4-3,ATRCAN,-4,3,1,leaf not exposed,1
+ATRCAN-4-3,ATRCAN,-4,3,2,normal,1
+ATRCAN-4-3,ATRCAN,-4,3,3,normal,1
+ATRCAN-6-1,ATRCAN,-6,1,1,normal,1
+ATRCAN-6-1,ATRCAN,-6,1,1,small size,0
+ATRCAN-6-1,ATRCAN,-6,1,2,normal,0
+ATRCAN-6-1,ATRCAN,-6,1,3,normal,0
+ATRCAN-6-1,ATRCAN,-6,1,3,normal,0
+ATRCAN-6-2,ATRCAN,-6,2,1,normal,1
+ATRCAN-6-2,ATRCAN,-6,2,2,abnormal development,1
+ATRCAN-6-2,ATRCAN,-6,2,3,normal,1
+ATRCAN-6-3,ATRCAN,-6,3,1,normal,0
+ATRCAN-6-3,ATRCAN,-6,3,2,normal,0
+ATRCAN-6-3,ATRCAN,-6,3,3,normal,0
+ATRCAN-8-1,ATRCAN,-8,1,1,leaf not exposed,0
+ATRCAN-8-1,ATRCAN,-8,1,1,leaf not exposed,0
+ATRCAN-8-1,ATRCAN,-8,1,2,normal,0
+ATRCAN-8-1,ATRCAN,-8,1,2,normal,0
+ATRCAN-8-1,ATRCAN,-8,1,3,normal,0
+ATRCAN-8-1,ATRCAN,-8,1,3,small size,0
+ATRCAN-8-2,ATRCAN,-8,2,1,normal,0
+ATRCAN-8-2,ATRCAN,-8,2,2,normal,0
+ATRCAN-8-2,ATRCAN,-8,2,3,normal,0
+ATRCAN-8-3,ATRCAN,-8,3,1,normal,0
+ATRCAN-8-3,ATRCAN,-8,3,3,normal,0
+BAIMUL-2-1,BAIMUL,-2,1,1,normal,1
+BAIMUL-2-1,BAIMUL,-2,1,2,normal,1
+BAIMUL-2-1,BAIMUL,-2,1,3,normal,1
+BAIMUL-2-2,BAIMUL,-2,2,1,normal,1
+BAIMUL-2-2,BAIMUL,-2,2,2,normal,1
+BAIMUL-2-2,BAIMUL,-2,2,3,normal,1
+BAIMUL-2-3,BAIMUL,-2,3,1,normal,1
+BAIMUL-2-3,BAIMUL,-2,3,2,normal,1
+BAIMUL-2-3,BAIMUL,-2,3,3,normal,1
+BAIMUL-2-4,BAIMUL,-2,4,1,normal,1
+BAIMUL-2-4,BAIMUL,-2,4,2,normal,1
+BAIMUL-2-4,BAIMUL,-2,4,3,normal,1
+BAIMUL-4-1,BAIMUL,-4,1,1,normal,1
+BAIMUL-4-1,BAIMUL,-4,1,2,normal,1
+BAIMUL-4-1,BAIMUL,-4,1,3,normal,1
+BAIMUL-4-2,BAIMUL,-4,2,1,normal,1
+BAIMUL-4-2,BAIMUL,-4,2,2,normal,1
+BAIMUL-4-2,BAIMUL,-4,2,3,normal,1
+BAIMUL-4-3,BAIMUL,-4,3,1,normal,1
+BAIMUL-4-3,BAIMUL,-4,3,2,normal,1
+BAIMUL-4-3,BAIMUL,-4,3,3,normal,1
+BAIMUL-4-4,BAIMUL,-4,4,1,normal,1
+BAIMUL-4-4,BAIMUL,-4,4,2,normal,1
+BAIMUL-4-4,BAIMUL,-4,4,3,normal,1
+BAIMUL-6-1,BAIMUL,-6,1,1,true leaves,0
+BAIMUL-6-1,BAIMUL,-6,1,2,true leaves,0
+BAIMUL-6-1,BAIMUL,-6,1,3,normal,0
+BAIMUL-6-2,BAIMUL,-6,2,1,normal,0
+BAIMUL-6-2,BAIMUL,-6,2,2,normal,0
+BAIMUL-6-2,BAIMUL,-6,2,3,normal,0
+BAIMUL-6-3,BAIMUL,-6,3,1,normal,0
+BAIMUL-6-3,BAIMUL,-6,3,2,normal,1
+BAIMUL-6-3,BAIMUL,-6,3,3,normal,1
+BAIMUL-6-4,BAIMUL,-6,4,1,normal,1
+BAIMUL-6-4,BAIMUL,-6,4,2,normal,0
+BAIMUL-6-4,BAIMUL,-6,4,3,normal,0
+BAIMUL-8-1,BAIMUL,-8,1,1,normal,0
+BAIMUL-8-1,BAIMUL,-8,1,2,normal,0
+BAIMUL-8-1,BAIMUL,-8,1,3,normal,0
+BAIMUL-8-2,BAIMUL,-8,2,1,normal,0
+BAIMUL-8-2,BAIMUL,-8,2,2,normal,0
+BAIMUL-8-2,BAIMUL,-8,2,3,normal,0
+BAIMUL-8-3,BAIMUL,-8,3,1,normal,0
+BAIMUL-8-3,BAIMUL,-8,3,2,normal,0
+BAIMUL-8-3,BAIMUL,-8,3,3,normal,0
+BAIMUL-8-4,BAIMUL,-8,4,1,normal,0
+BAIMUL-8-4,BAIMUL,-8,4,2,normal,0
+BAIMUL-8-4,BAIMUL,-8,4,3,leaf not exposed,0
+BALSAG-2-1,BALSAG,-2,1,1,normal,1
+BALSAG-2-1,BALSAG,-2,1,2,normal,1
+BALSAG-2-1,BALSAG,-2,1,3,normal,1
+BALSAG-2-2,BALSAG,-2,2,1,normal,1
+BALSAG-2-2,BALSAG,-2,2,2,normal,1
+BALSAG-2-3,BALSAG,-2,3,1,normal,1
+BALSAG-2-3,BALSAG,-2,3,2,normal,1
+BALSAG-2-3,BALSAG,-2,3,3,normal,1
+BALSAG-2-4,BALSAG,-2,4,1,normal,1
+BALSAG-2-4,BALSAG,-2,4,2,normal,1
+BALSAG-2-4,BALSAG,-2,4,3,normal,1
+BALSAG-4-1,BALSAG,-4,1,1,normal,1
+BALSAG-4-1,BALSAG,-4,1,2,normal,1
+BALSAG-4-1,BALSAG,-4,1,3,normal,1
+BALSAG-4-2,BALSAG,-4,2,1,normal,1
+BALSAG-4-2,BALSAG,-4,2,2,normal,1
+BALSAG-4-2,BALSAG,-4,2,3,normal,1
+BALSAG-4-3,BALSAG,-4,3,1,normal,1
+BALSAG-4-3,BALSAG,-4,3,2,normal,1
+BALSAG-4-3,BALSAG,-4,3,3,normal,1
+BALSAG-4-4,BALSAG,-4,4,1,normal,1
+BALSAG-4-4,BALSAG,-4,4,2,normal,1
+BALSAG-4-4,BALSAG,-4,4,3,normal,1
+BALSAG-6-1,BALSAG,-6,1,2,normal,0
+BALSAG-6-1,BALSAG,-6,1,3,normal,0
+BALSAG-6-2,BALSAG,-6,2,1,normal,0
+BALSAG-6-2,BALSAG,-6,2,2,normal,1
+BALSAG-6-2,BALSAG,-6,2,3,normal,0
+BALSAG-6-3,BALSAG,-6,3,1,normal,0
+BALSAG-6-3,BALSAG,-6,3,2,normal,0
+BALSAG-6-3,BALSAG,-6,3,3,normal,0
+BALSAG-6-4,BALSAG,-6,4,1,normal,1
+BALSAG-6-4,BALSAG,-6,4,2,normal,1
+BALSAG-6-4,BALSAG,-6,4,3,normal,1
+BALSAG-8-1,BALSAG,-8,1,1,normal,0
+BALSAG-8-1,BALSAG,-8,1,2,normal,0
+BALSAG-8-1,BALSAG,-8,1,3,normal,0
+BALSAG-8-2,BALSAG,-8,2,1,normal,0
+BALSAG-8-2,BALSAG,-8,2,2,normal,0
+BALSAG-8-2,BALSAG,-8,2,3,normal,0
+BALSAG-8-3,BALSAG,-8,3,1,normal,0
+BALSAG-8-3,BALSAG,-8,3,2,normal,0
+BALSAG-8-3,BALSAG,-8,3,3,normal,0
+BALSAG-8-4,BALSAG,-8,4,1,normal,0
+BALSAG-8-4,BALSAG,-8,4,2,normal,0
+BALSAG-8-4,BALSAG,-8,4,3,normal,0
+BOUCUR-2-1,BOUCUR,-2,1,1,normal,1
+BOUCUR-2-1,BOUCUR,-2,1,2,normal,1
+BOUCUR-2-1,BOUCUR,-2,1,3,normal,1
+BOUCUR-2-2,BOUCUR,-2,2,1,normal,1
+BOUCUR-2-2,BOUCUR,-2,2,2,normal,1
+BOUCUR-2-2,BOUCUR,-2,2,3,normal,1
+BOUCUR-2-3,BOUCUR,-2,3,2,normal,1
+BOUCUR-2-3,BOUCUR,-2,3,3,normal,1
+BOUCUR-2-4,BOUCUR,-2,4,1,normal,1
+BOUCUR-2-4,BOUCUR,-2,4,2,normal,1
+BOUCUR-2-4,BOUCUR,-2,4,3,normal,1
+BOUCUR-4-1,BOUCUR,-4,1,1,normal,1
+BOUCUR-4-1,BOUCUR,-4,1,3,normal,1
+BOUCUR-4-2,BOUCUR,-4,2,1,normal,1
+BOUCUR-4-2,BOUCUR,-4,2,2,normal,1
+BOUCUR-4-2,BOUCUR,-4,2,3,normal,0
+BOUCUR-4-3,BOUCUR,-4,3,1,normal,1
+BOUCUR-4-3,BOUCUR,-4,3,2,normal,1
+BOUCUR-4-3,BOUCUR,-4,3,3,normal,1
+BOUCUR-4-4,BOUCUR,-4,4,1,normal,1
+BOUCUR-4-4,BOUCUR,-4,4,2,normal,1
+BOUCUR-4-4,BOUCUR,-4,4,3,normal,1
+BOUCUR-6-1,BOUCUR,-6,1,1,normal,1
+BOUCUR-6-1,BOUCUR,-6,1,2,normal,1
+BOUCUR-6-1,BOUCUR,-6,1,3,normal,1
+BOUCUR-6-2,BOUCUR,-6,2,1,normal,0
+BOUCUR-6-2,BOUCUR,-6,2,2,normal,1
+BOUCUR-6-2,BOUCUR,-6,2,3,normal,0
+BOUCUR-6-3,BOUCUR,-6,3,1,normal,1
+BOUCUR-6-3,BOUCUR,-6,3,2,normal,1
+BOUCUR-6-3,BOUCUR,-6,3,3,normal,0
+BOUCUR-6-4,BOUCUR,-6,4,1,normal,1
+BOUCUR-6-4,BOUCUR,-6,4,2,normal,0
+BOUCUR-6-4,BOUCUR,-6,4,3,normal,0
+BOUCUR-8-1,BOUCUR,-8,1,1,small size,0
+BOUCUR-8-1,BOUCUR,-8,1,2,normal,0
+BOUCUR-8-1,BOUCUR,-8,1,3,normal,0
+BOUCUR-8-2,BOUCUR,-8,2,1,normal,0
+BOUCUR-8-2,BOUCUR,-8,2,2,normal,0
+BOUCUR-8-2,BOUCUR,-8,2,3,normal,0
+BOUCUR-8-3,BOUCUR,-8,3,1,normal,0
+BOUCUR-8-3,BOUCUR,-8,3,2,normal,0
+BOUCUR-8-3,BOUCUR,-8,3,3,normal,0
+BOUCUR-8-4,BOUCUR,-8,4,1,normal,0
+BOUCUR-8-4,BOUCUR,-8,4,2,normal,0
+BOUCUR-8-4,BOUCUR,-8,4,3,normal,0
+BOUERI-2-1,BOUERI,-2,1,1,normal,1
+BOUERI-2-1,BOUERI,-2,1,2,normal,1
+BOUERI-2-1,BOUERI,-2,1,3,small size,0
+BOUERI-2-2,BOUERI,-2,2,2,normal,1
+BOUERI-2-2,BOUERI,-2,2,3,normal,1
+BOUERI-2-3,BOUERI,-2,3,1,normal,1
+BOUERI-2-3,BOUERI,-2,3,2,normal,1
+BOUERI-2-3,BOUERI,-2,3,3,normal,1
+BOUERI-2-4,BOUERI,-2,4,1,normal,1
+BOUERI-2-4,BOUERI,-2,4,2,normal,1
+BOUERI-2-4,BOUERI,-2,4,3,normal,1
+BOUERI-4-1,BOUERI,-4,1,1,normal,1
+BOUERI-4-1,BOUERI,-4,1,2,normal,1
+BOUERI-4-1,BOUERI,-4,1,3,normal,1
+BOUERI-4-2,BOUERI,-4,2,1,normal,1
+BOUERI-4-2,BOUERI,-4,2,2,normal,1
+BOUERI-4-2,BOUERI,-4,2,3,normal,1
+BOUERI-4-3,BOUERI,-4,3,1,normal,1
+BOUERI-4-3,BOUERI,-4,3,2,normal,1
+BOUERI-4-3,BOUERI,-4,3,3,normal,1
+BOUERI-4-4,BOUERI,-4,4,1,normal,0
+BOUERI-4-4,BOUERI,-4,4,2,normal,0
+BOUERI-4-4,BOUERI,-4,4,3,normal,1
+BOUERI-6-1,BOUERI,-6,1,1,normal,0
+BOUERI-6-1,BOUERI,-6,1,3,normal,0
+BOUERI-6-2,BOUERI,-6,2,1,normal,0
+BOUERI-6-2,BOUERI,-6,2,2,normal,0
+BOUERI-6-2,BOUERI,-6,2,3,normal,0
+BOUERI-6-3,BOUERI,-6,3,1,normal,1
+BOUERI-6-3,BOUERI,-6,3,2,normal,1
+BOUERI-6-3,BOUERI,-6,3,3,normal,1
+BOUERI-6-4,BOUERI,-6,4,1,normal,0
+BOUERI-6-4,BOUERI,-6,4,2,normal,0
+BOUERI-6-4,BOUERI,-6,4,3,normal,0
+BOUERI-8-1,BOUERI,-8,1,1,normal,0
+BOUERI-8-1,BOUERI,-8,1,2,normal,0
+BOUERI-8-1,BOUERI,-8,1,3,normal,0
+BOUERI-8-2,BOUERI,-8,2,1,normal,0
+BOUERI-8-2,BOUERI,-8,2,2,normal,0
+BOUERI-8-2,BOUERI,-8,2,3,normal,0
+BOUERI-8-3,BOUERI,-8,3,1,normal,0
+BOUERI-8-3,BOUERI,-8,3,3,normal,0
+BOUERI-8-4,BOUERI,-8,4,1,normal,0
+BOUERI-8-4,BOUERI,-8,4,2,normal,0
+BOUERI-8-4,BOUERI,-8,4,3,normal,0
+BOUGRA-2-1,BOUGRA,-2,1,1,normal,1
+BOUGRA-2-1,BOUGRA,-2,1,2,normal,1
+BOUGRA-2-1,BOUGRA,-2,1,3,normal,1
+BOUGRA-2-2,BOUGRA,-2,2,1,normal,1
+BOUGRA-2-2,BOUGRA,-2,2,2,normal,1
+BOUGRA-2-2,BOUGRA,-2,2,3,normal,1
+BOUGRA-2-3,BOUGRA,-2,3,1,normal,1
+BOUGRA-2-3,BOUGRA,-2,3,2,normal,1
+BOUGRA-2-3,BOUGRA,-2,3,3,normal,1
+BOUGRA-2-4,BOUGRA,-2,4,1,normal,1
+BOUGRA-2-4,BOUGRA,-2,4,2,normal,1
+BOUGRA-2-4,BOUGRA,-2,4,3,normal,1
+BOUGRA-4-1,BOUGRA,-4,1,1,normal,1
+BOUGRA-4-1,BOUGRA,-4,1,2,normal,1
+BOUGRA-4-1,BOUGRA,-4,1,3,normal,1
+BOUGRA-4-2,BOUGRA,-4,2,1,normal,1
+BOUGRA-4-2,BOUGRA,-4,2,2,normal,0
+BOUGRA-4-2,BOUGRA,-4,2,3,abnormal development,0
+BOUGRA-4-3,BOUGRA,-4,3,1,normal,1
+BOUGRA-4-3,BOUGRA,-4,3,3,normal,1
+BOUGRA-4-4,BOUGRA,-4,4,1,normal,0
+BOUGRA-4-4,BOUGRA,-4,4,2,normal,1
+BOUGRA-4-4,BOUGRA,-4,4,3,normal,1
+BOUGRA-6-1,BOUGRA,-6,1,1,normal,0
+BOUGRA-6-1,BOUGRA,-6,1,2,normal,1
+BOUGRA-6-1,BOUGRA,-6,1,3,normal,1
+BOUGRA-6-2,BOUGRA,-6,2,1,normal,0
+BOUGRA-6-2,BOUGRA,-6,2,2,normal,0
+BOUGRA-6-2,BOUGRA,-6,2,3,normal,0
+BOUGRA-6-3,BOUGRA,-6,3,1,normal,0
+BOUGRA-6-3,BOUGRA,-6,3,2,normal,0
+BOUGRA-6-3,BOUGRA,-6,3,3,normal,0
+BOUGRA-6-4,BOUGRA,-6,4,1,normal,0
+BOUGRA-6-4,BOUGRA,-6,4,2,normal,0
+BOUGRA-6-4,BOUGRA,-6,4,3,normal,0
+BOUGRA-8-1,BOUGRA,-8,1,1,normal,0
+BOUGRA-8-1,BOUGRA,-8,1,2,normal,0
+BOUGRA-8-1,BOUGRA,-8,1,3,normal,0
+BOUGRA-8-2,BOUGRA,-8,2,1,small size,0
+BOUGRA-8-2,BOUGRA,-8,2,2,normal,0
+BOUGRA-8-2,BOUGRA,-8,2,3,normal,0
+BOUGRA-8-3,BOUGRA,-8,3,1,normal,0
+BOUGRA-8-3,BOUGRA,-8,3,2,normal,0
+BOUGRA-8-3,BOUGRA,-8,3,3,normal,0
+BOUGRA-8-4,BOUGRA,-8,4,1,normal,0
+BOUGRA-8-4,BOUGRA,-8,4,2,normal,0
+BOUGRA-8-4,BOUGRA,-8,4,3,normal,0
+BROTEC-2-1,BROTEC,-2,1,1,normal,1
+BROTEC-2-1,BROTEC,-2,1,2,normal,1
+BROTEC-2-1,BROTEC,-2,1,3,normal,1
+BROTEC-2-2,BROTEC,-2,2,1,normal,1
+BROTEC-2-2,BROTEC,-2,2,2,normal,1
+BROTEC-2-2,BROTEC,-2,2,3,normal,1
+BROTEC-2-3,BROTEC,-2,3,1,normal,1
+BROTEC-2-3,BROTEC,-2,3,2,normal,1
+BROTEC-2-3,BROTEC,-2,3,3,normal,1
+BROTEC-2-4,BROTEC,-2,4,1,normal,1
+BROTEC-2-4,BROTEC,-2,4,2,normal,1
+BROTEC-2-4,BROTEC,-2,4,3,normal,1
+BROTEC-4-1,BROTEC,-4,1,1,normal,1
+BROTEC-4-1,BROTEC,-4,1,2,normal,1
+BROTEC-4-1,BROTEC,-4,1,3,normal,1
+BROTEC-4-2,BROTEC,-4,2,1,normal,1
+BROTEC-4-2,BROTEC,-4,2,2,normal,1
+BROTEC-4-2,BROTEC,-4,2,3,normal,1
+BROTEC-4-3,BROTEC,-4,3,1,normal,1
+BROTEC-4-3,BROTEC,-4,3,2,normal,1
+BROTEC-4-3,BROTEC,-4,3,3,normal,1
+BROTEC-4-4,BROTEC,-4,4,1,normal,1
+BROTEC-4-4,BROTEC,-4,4,2,normal,1
+BROTEC-4-4,BROTEC,-4,4,3,normal,1
+BROTEC-6-1,BROTEC,-6,1,1,normal,1
+BROTEC-6-1,BROTEC,-6,1,2,normal,1
+BROTEC-6-1,BROTEC,-6,1,3,normal,1
+BROTEC-6-2,BROTEC,-6,2,1,normal,1
+BROTEC-6-2,BROTEC,-6,2,2,normal,1
+BROTEC-6-2,BROTEC,-6,2,3,normal,1
+BROTEC-6-3,BROTEC,-6,3,1,normal,1
+BROTEC-6-3,BROTEC,-6,3,2,normal,1
+BROTEC-6-3,BROTEC,-6,3,3,normal,1
+BROTEC-6-4,BROTEC,-6,4,1,normal,1
+BROTEC-6-4,BROTEC,-6,4,2,normal,1
+BROTEC-6-4,BROTEC,-6,4,3,normal,1
+BROTEC-8-1,BROTEC,-8,1,1,normal,0
+BROTEC-8-1,BROTEC,-8,1,2,normal,0
+BROTEC-8-1,BROTEC,-8,1,3,normal,0
+BROTEC-8-2,BROTEC,-8,2,1,normal,0
+BROTEC-8-2,BROTEC,-8,2,2,normal,0
+BROTEC-8-2,BROTEC,-8,2,3,normal,0
+BROTEC-8-3,BROTEC,-8,3,1,normal,0
+BROTEC-8-3,BROTEC,-8,3,2,normal,0
+BROTEC-8-3,BROTEC,-8,3,3,normal,1
+BROTEC-8-4,BROTEC,-8,4,1,normal,0
+BROTEC-8-4,BROTEC,-8,4,2,normal,0
+BROTEC-8-4,BROTEC,-8,4,3,normal,0
+CHADOU-2-1,CHADOU,-2,1,1,leaf not exposed,1
+CHADOU-2-1,CHADOU,-2,1,2,leaf not exposed,0
+CHADOU-2-1,CHADOU,-2,1,3,leaf not exposed,0
+CHADOU-2-1b,CHADOU,-2,1b,3,normal,1
+CHADOU-2-2,CHADOU,-2,2,1,leaf not exposed,0
+CHADOU-2-2,CHADOU,-2,2,2,leaf not exposed,0
+CHADOU-2-2,CHADOU,-2,2,3,leaf not exposed,1
+CHADOU-2-2b,CHADOU,-2,2b,1,true leaves,0
+CHADOU-2-2b,CHADOU,-2,2b,2,true leaves,1
+CHADOU-2-2b,CHADOU,-2,2b,3,normal,0
+CHADOU-2-3,CHADOU,-2,3,1,leaf not exposed,1
+CHADOU-2-3,CHADOU,-2,3,2,leaf not exposed,0
+CHADOU-2-3,CHADOU,-2,3,3,leaf not exposed,1
+CHADOU-2-3b,CHADOU,-2,3b,1,true leaves,1
+CHADOU-2-3b,CHADOU,-2,3b,2,small size,0
+CHADOU-2-3b,CHADOU,-2,3b,3,normal,0
+CHADOU-2-4,CHADOU,-2,4,1,leaf not exposed,1
+CHADOU-2-4,CHADOU,-2,4,2,leaf not exposed,1
+CHADOU-2-4,CHADOU,-2,4,3,normal,0
+CHADOU-2-4b,CHADOU,-2,4b,1,true leaves,1
+CHADOU-4-1,CHADOU,-4,1,1,leaf not exposed,0
+CHADOU-4-1,CHADOU,-4,1,2,normal,1
+CHADOU-4-1,CHADOU,-4,1,3,leaf not exposed,0
+CHADOU-4-1b,CHADOU,-4,1b,1,true leaves,1
+CHADOU-4-1b,CHADOU,-4,1b,2,small size,0
+CHADOU-4-2,CHADOU,-4,2,1,leaf not exposed,0
+CHADOU-4-2,CHADOU,-4,2,2,leaf not exposed,0
+CHADOU-4-2,CHADOU,-4,2,3,leaf not exposed,0
+CHADOU-4-2b,CHADOU,-4,2b,1,abnormal development,1
+CHADOU-4-2b,CHADOU,-4,2b,2,small size,1
+CHADOU-4-2b,CHADOU,-4,2b,3,true leaves,1
+CHADOU-4-3,CHADOU,-4,3,1,leaf not exposed,0
+CHADOU-4-3,CHADOU,-4,3,2,leaf not exposed,0
+CHADOU-4-3,CHADOU,-4,3,3,leaf not exposed,0
+CHADOU-4-3b,CHADOU,-4,3b,3,true leaves,1
+CHADOU-4-4,CHADOU,-4,4,1,leaf not exposed,0
+CHADOU-4-4,CHADOU,-4,4,2,leaf not exposed,0
+CHADOU-4-4,CHADOU,-4,4,3,leaf not exposed,0
+CHADOU-4-4b,CHADOU,-4,4b,1,abnormal development,0
+CHADOU-4-4b,CHADOU,-4,4b,3,true leaves,1
+CHADOU-6-1,CHADOU,-6,1,1,leaf not exposed,0
+CHADOU-6-1,CHADOU,-6,1,2,normal,0
+CHADOU-6-1,CHADOU,-6,1,3,leaf not exposed,0
+CHADOU-6-1b,CHADOU,-6,1b,1,true leaves,1
+CHADOU-6-2,CHADOU,-6,2,1,leaf not exposed,0
+CHADOU-6-2,CHADOU,-6,2,2,leaf not exposed,0
+CHADOU-6-2,CHADOU,-6,2,3,abnormal development,0
+CHADOU-6-2b,CHADOU,-6,2b,1,true leaves,0
+CHADOU-6-2b,CHADOU,-6,2b,3,abnormal development,1
+CHADOU-6-3,CHADOU,-6,3,1,leaf not exposed,0
+CHADOU-6-3,CHADOU,-6,3,2,leaf not exposed,0
+CHADOU-6-3,CHADOU,-6,3,3,normal,1
+CHADOU-6-3b,CHADOU,-6,3b,3,true leaves,1
+CHADOU-6-4,CHADOU,-6,4,1,leaf not exposed,1
+CHADOU-6-4,CHADOU,-6,4,2,leaf not exposed,0
+CHADOU-6-4,CHADOU,-6,4,3,normal,1
+CHADOU-6-4b,CHADOU,-6,4b,1,true leaves,0
+CHADOU-6-4b,CHADOU,-6,4b,3,abnormal development,1
+CHADOU-8-1,CHADOU,-8,1,1,leaf not exposed,0
+CHADOU-8-1,CHADOU,-8,1,2,leaf not exposed,0
+CHADOU-8-1,CHADOU,-8,1,3,normal,0
+CHADOU-8-1b,CHADOU,-8,1b,1,normal,0
+CHADOU-8-1b,CHADOU,-8,1b,3,true leaves,0
+CHADOU-8-2,CHADOU,-8,2,1,leaf not exposed,0
+CHADOU-8-2,CHADOU,-8,2,2,leaf not exposed,0
+CHADOU-8-2,CHADOU,-8,2,3,leaf not exposed,0
+CHADOU-8-2b,CHADOU,-8,2b,3,abnormal development,0
+CHADOU-8-3,CHADOU,-8,3,1,leaf not exposed,0
+CHADOU-8-3,CHADOU,-8,3,2,normal,0
+CHADOU-8-3,CHADOU,-8,3,3,leaf not exposed,0
+CHADOU-8-3b,CHADOU,-8,3b,3,abnormal development,0
+CHADOU-8-4,CHADOU,-8,4,1,leaf not exposed,0
+CHADOU-8-4,CHADOU,-8,4,2,normal,0
+CHADOU-8-4,CHADOU,-8,4,3,leaf not exposed,0
+CHADOU-8-4b,CHADOU,-8,4b,1,abnormal development,0
+CHADOU-8-4b,CHADOU,-8,4b,3,abnormal development,0
+CLELUT-2-1,CLELUT,-2,1,1,normal,1
+CLELUT-2-1,CLELUT,-2,1,2,normal,1
+CLELUT-2-1,CLELUT,-2,1,3,normal,1
+CLELUT-2-2,CLELUT,-2,2,1,normal,1
+CLELUT-2-2,CLELUT,-2,2,2,normal,1
+CLELUT-2-2,CLELUT,-2,2,3,normal,1
+CLELUT-2-3,CLELUT,-2,3,1,normal,1
+CLELUT-2-3,CLELUT,-2,3,2,normal,1
+CLELUT-2-3,CLELUT,-2,3,3,normal,1
+CLELUT-2-4,CLELUT,-2,4,1,normal,1
+CLELUT-2-4,CLELUT,-2,4,2,normal,1
+CLELUT-2-4,CLELUT,-2,4,3,normal,1
+CLELUT-4-1,CLELUT,-4,1,1,normal,1
+CLELUT-4-1,CLELUT,-4,1,2,normal,1
+CLELUT-4-1,CLELUT,-4,1,3,normal,1
+CLELUT-4-2,CLELUT,-4,2,1,normal,1
+CLELUT-4-2,CLELUT,-4,2,2,normal,1
+CLELUT-4-2,CLELUT,-4,2,3,normal,1
+CLELUT-4-3,CLELUT,-4,3,1,normal,1
+CLELUT-4-3,CLELUT,-4,3,2,normal,1
+CLELUT-4-3,CLELUT,-4,3,3,normal,1
+CLELUT-4-4,CLELUT,-4,4,1,normal,1
+CLELUT-4-4,CLELUT,-4,4,2,normal,1
+CLELUT-4-4,CLELUT,-4,4,3,normal,1
+CLELUT-6-1,CLELUT,-6,1,1,normal,1
+CLELUT-6-1,CLELUT,-6,1,2,normal,1
+CLELUT-6-1,CLELUT,-6,1,3,normal,1
+CLELUT-6-2,CLELUT,-6,2,1,normal,1
+CLELUT-6-2,CLELUT,-6,2,2,true leaves,1
+CLELUT-6-2,CLELUT,-6,2,3,true leaves,0
+CLELUT-6-3,CLELUT,-6,3,1,normal,1
+CLELUT-6-3,CLELUT,-6,3,2,normal,1
+CLELUT-6-3,CLELUT,-6,3,3,normal,1
+CLELUT-6-4,CLELUT,-6,4,1,normal,1
+CLELUT-6-4,CLELUT,-6,4,2,normal,1
+CLELUT-6-4,CLELUT,-6,4,3,normal,1
+CLELUT-8-1,CLELUT,-8,1,1,normal,0
+CLELUT-8-1,CLELUT,-8,1,2,normal,1
+CLELUT-8-1,CLELUT,-8,1,3,normal,0
+CLELUT-8-2,CLELUT,-8,2,1,normal,0
+CLELUT-8-2,CLELUT,-8,2,2,normal,0
+CLELUT-8-2,CLELUT,-8,2,3,normal,0
+CLELUT-8-3,CLELUT,-8,3,1,normal,1
+CLELUT-8-3,CLELUT,-8,3,2,normal,0
+CLELUT-8-3,CLELUT,-8,3,3,normal,0
+CLELUT-8-4,CLELUT,-8,4,1,normal,1
+CLELUT-8-4,CLELUT,-8,4,2,normal,1
+CLELUT-8-4,CLELUT,-8,4,3,normal,0
+CLESER-2-1,CLESER,-2,1,1,true leaves,1
+CLESER-2-1,CLESER,-2,1,2,normal,1
+CLESER-2-1,CLESER,-2,1,3,true leaves,1
+CLESER-2-2,CLESER,-2,2,1,normal,1
+CLESER-2-2,CLESER,-2,2,2,normal,1
+CLESER-2-2,CLESER,-2,2,3,normal,1
+CLESER-2-3,CLESER,-2,3,1,true leaves,1
+CLESER-2-3,CLESER,-2,3,2,true leaves,1
+CLESER-2-3,CLESER,-2,3,3,true leaves,1
+CLESER-2-4,CLESER,-2,4,1,true leaves,1
+CLESER-4-1,CLESER,-4,1,1,normal,1
+CLESER-4-1,CLESER,-4,1,2,normal,1
+CLESER-4-1,CLESER,-4,1,3,normal,1
+CLESER-4-2,CLESER,-4,2,1,true leaves,1
+CLESER-4-2,CLESER,-4,2,2,true leaves,1
+CLESER-4-2,CLESER,-4,2,3,true leaves,1
+CLESER-4-3,CLESER,-4,3,1,normal,1
+CLESER-4-3,CLESER,-4,3,2,normal,1
+CLESER-4-3,CLESER,-4,3,3,normal,1
+CLESER-4-4,CLESER,-4,4,1,true leaves,1
+CLESER-6-1,CLESER,-6,1,1,true leaves,1
+CLESER-6-1,CLESER,-6,1,2,true leaves,1
+CLESER-6-1,CLESER,-6,1,3,true leaves,1
+CLESER-6-2,CLESER,-6,2,1,abnormal development,0
+CLESER-6-2,CLESER,-6,2,2,normal,1
+CLESER-6-2,CLESER,-6,2,3,normal,1
+CLESER-6-3,CLESER,-6,3,1,true leaves,1
+CLESER-6-3,CLESER,-6,3,2,normal,1
+CLESER-6-3,CLESER,-6,3,3,true leaves,1
+CLESER-6-4,CLESER,-6,4,1,normal,1
+CLESER-8-1,CLESER,-8,1,1,true leaves,1
+CLESER-8-1,CLESER,-8,1,2,true leaves,0
+CLESER-8-1,CLESER,-8,1,3,true leaves,0
+CLESER-8-2,CLESER,-8,2,1,abnormal development,0
+CLESER-8-2,CLESER,-8,2,2,abnormal development,0
+CLESER-8-2,CLESER,-8,2,3,true leaves,0
+CLESER-8-3,CLESER,-8,3,1,normal,0
+CLESER-8-3,CLESER,-8,3,2,normal,0
+CLESER-8-3,CLESER,-8,3,3,normal,0
+CLESER-8-4,CLESER,-8,4,1,true leaves,0
+CREACU-2-1,CREACU,-2,1,1,normal,1
+CREACU-2-1,CREACU,-2,1,3,normal,1
+CREACU-2-2,CREACU,-2,2,1,normal,1
+CREACU-2-2,CREACU,-2,2,2,normal,1
+CREACU-2-2,CREACU,-2,2,3,normal,1
+CREACU-2-3,CREACU,-2,3,1,normal,1
+CREACU-2-3,CREACU,-2,3,2,abnormal development,1
+CREACU-2-3,CREACU,-2,3,3,normal,1
+CREACU-2-4,CREACU,-2,4,1,normal,1
+CREACU-2-4,CREACU,-2,4,2,normal,1
+CREACU-2-4,CREACU,-2,4,3,leaf not exposed,1
+CREACU-4-1,CREACU,-4,1,1,normal,1
+CREACU-4-1,CREACU,-4,1,2,normal,1
+CREACU-4-1,CREACU,-4,1,3,abnormal development,1
+CREACU-4-2,CREACU,-4,2,1,normal,1
+CREACU-4-2,CREACU,-4,2,2,abnormal development,1
+CREACU-4-2,CREACU,-4,2,3,abnormal development,1
+CREACU-4-3,CREACU,-4,3,1,normal,1
+CREACU-4-3,CREACU,-4,3,3,abnormal development,1
+CREACU-4-4,CREACU,-4,4,2,small size,1
+CREACU-6-1,CREACU,-6,1,1,normal,1
+CREACU-6-1,CREACU,-6,1,2,normal,1
+CREACU-6-1,CREACU,-6,1,3,normal,1
+CREACU-6-2,CREACU,-6,2,1,normal,1
+CREACU-6-2,CREACU,-6,2,2,normal,1
+CREACU-6-2,CREACU,-6,2,3,normal,0
+CREACU-6-3,CREACU,-6,3,1,normal,1
+CREACU-6-3,CREACU,-6,3,2,normal,1
+CREACU-6-3,CREACU,-6,3,3,normal,1
+CREACU-6-4,CREACU,-6,4,1,normal,1
+CREACU-6-4,CREACU,-6,4,2,normal,1
+CREACU-6-4,CREACU,-6,4,3,normal,0
+CREACU-8-1,CREACU,-8,1,1,normal,0
+CREACU-8-1,CREACU,-8,1,2,leaf not exposed,0
+CREACU-8-1,CREACU,-8,1,3,abnormal development,0
+CREACU-8-2,CREACU,-8,2,1,normal,0
+CREACU-8-2,CREACU,-8,2,2,normal,0
+CREACU-8-2,CREACU,-8,2,3,normal,1
+CREACU-8-3,CREACU,-8,3,1,normal,0
+CREACU-8-3,CREACU,-8,3,2,abnormal development,0
+CREACU-8-4,CREACU,-8,4,1,normal,0
+CREACU-8-4,CREACU,-8,4,1,true leaves,0
+CREACU-8-4,CREACU,-8,4,2,normal,0
+CREACU-8-4,CREACU,-8,4,3,normal,0
+CREACU-8-4,CREACU,-8,4,3,normal,0
+CREINT-2-1,CREINT,-2,1,1,normal,1
+CREINT-2-1,CREINT,-2,1,2,normal,1
+CREINT-2-1,CREINT,-2,1,3,normal,1
+CREINT-2-2,CREINT,-2,2,1,normal,1
+CREINT-2-2,CREINT,-2,2,2,normal,1
+CREINT-2-2,CREINT,-2,2,3,normal,1
+CREINT-2-3,CREINT,-2,3,1,normal,1
+CREINT-2-3,CREINT,-2,3,2,normal,1
+CREINT-2-3,CREINT,-2,3,3,normal,1
+CREINT-2-4,CREINT,-2,4,1,normal,1
+CREINT-2-4,CREINT,-2,4,2,true leaves,1
+CREINT-2-4,CREINT,-2,4,3,normal,1
+CREINT-4-1,CREINT,-4,1,1,abnormal development,1
+CREINT-4-1,CREINT,-4,1,2,abnormal development,1
+CREINT-4-1,CREINT,-4,1,3,normal,1
+CREINT-4-2,CREINT,-4,2,1,leaf not exposed,1
+CREINT-4-2,CREINT,-4,2,2,normal,1
+CREINT-4-2,CREINT,-4,2,3,normal,1
+CREINT-4-3,CREINT,-4,3,1,normal,1
+CREINT-4-3,CREINT,-4,3,2,normal,1
+CREINT-4-3,CREINT,-4,3,3,normal,1
+CREINT-4-4,CREINT,-4,4,1,normal,1
+CREINT-4-4,CREINT,-4,4,2,normal,1
+CREINT-4-4,CREINT,-4,4,3,normal,1
+CREINT-6-1,CREINT,-6,1,1,normal,0
+CREINT-6-1,CREINT,-6,1,2,normal,1
+CREINT-6-1,CREINT,-6,1,3,normal,1
+CREINT-6-2,CREINT,-6,2,1,normal,1
+CREINT-6-2,CREINT,-6,2,2,normal,1
+CREINT-6-2,CREINT,-6,2,3,normal,1
+CREINT-6-3,CREINT,-6,3,1,normal,1
+CREINT-6-3,CREINT,-6,3,2,abnormal development,1
+CREINT-6-3,CREINT,-6,3,3,normal,1
+CREINT-6-4,CREINT,-6,4,1,normal,0
+CREINT-6-4,CREINT,-6,4,2,normal,1
+CREINT-6-4,CREINT,-6,4,3,normal,1
+CREINT-8-1,CREINT,-8,1,1,normal,0
+CREINT-8-1,CREINT,-8,1,2,normal,0
+CREINT-8-1,CREINT,-8,1,3,normal,0
+CREINT-8-2,CREINT,-8,2,1,normal,0
+CREINT-8-2,CREINT,-8,2,2,normal,0
+CREINT-8-2,CREINT,-8,2,3,normal,0
+CREINT-8-3,CREINT,-8,3,1,normal,0
+CREINT-8-3,CREINT,-8,3,2,normal,0
+CREINT-8-3,CREINT,-8,3,3,normal,1
+CREINT-8-4,CREINT,-8,4,1,normal,0
+CREINT-8-4,CREINT,-8,4,2,normal,0
+CREINT-8-4,CREINT,-8,4,3,normal,0
+DALCAN-2-1,DALCAN,-2,1,1,normal,1
+DALCAN-2-1,DALCAN,-2,1,2,normal,1
+DALCAN-2-1,DALCAN,-2,1,3,normal,1
+DALCAN-2-2,DALCAN,-2,2,1,normal,1
+DALCAN-2-2,DALCAN,-2,2,2,abnormal development,1
+DALCAN-2-2,DALCAN,-2,2,3,normal,1
+DALCAN-2-3,DALCAN,-2,3,1,abnormal development,1
+DALCAN-2-3,DALCAN,-2,3,2,normal,1
+DALCAN-2-3,DALCAN,-2,3,3,normal,1
+DALCAN-2-4,DALCAN,-2,4,1,normal,1
+DALCAN-2-4,DALCAN,-2,4,2,normal,1
+DALCAN-2-4,DALCAN,-2,4,3,normal,1
+DALCAN-4-1,DALCAN,-4,1,1,normal,1
+DALCAN-4-1,DALCAN,-4,1,2,normal,1
+DALCAN-4-1,DALCAN,-4,1,3,normal,1
+DALCAN-4-2,DALCAN,-4,2,1,normal,1
+DALCAN-4-2,DALCAN,-4,2,2,normal,1
+DALCAN-4-2,DALCAN,-4,2,3,normal,1
+DALCAN-4-3,DALCAN,-4,3,1,normal,1
+DALCAN-4-3,DALCAN,-4,3,2,normal,1
+DALCAN-4-3,DALCAN,-4,3,3,abnormal development,1
+DALCAN-4-4,DALCAN,-4,4,1,normal,1
+DALCAN-4-4,DALCAN,-4,4,3,normal,1
+DALCAN-6-1,DALCAN,-6,1,1,normal,1
+DALCAN-6-1,DALCAN,-6,1,2,normal,1
+DALCAN-6-1,DALCAN,-6,1,3,normal,1
+DALCAN-6-2,DALCAN,-6,2,1,normal,0
+DALCAN-6-2,DALCAN,-6,2,2,normal,1
+DALCAN-6-2,DALCAN,-6,2,3,normal,1
+DALCAN-6-3,DALCAN,-6,3,1,normal,0
+DALCAN-6-3,DALCAN,-6,3,2,normal,1
+DALCAN-6-3,DALCAN,-6,3,3,normal,1
+DALCAN-6-4,DALCAN,-6,4,1,normal,0
+DALCAN-6-4,DALCAN,-6,4,2,normal,1
+DALCAN-6-4,DALCAN,-6,4,3,normal,0
+DALCAN-8-1,DALCAN,-8,1,1,normal,0
+DALCAN-8-1,DALCAN,-8,1,2,normal,0
+DALCAN-8-1,DALCAN,-8,1,3,normal,0
+DALCAN-8-2,DALCAN,-8,2,1,normal,0
+DALCAN-8-2,DALCAN,-8,2,2,normal,0
+DALCAN-8-2,DALCAN,-8,2,3,normal,0
+DALCAN-8-3,DALCAN,-8,3,1,normal,0
+DALCAN-8-3,DALCAN,-8,3,2,normal,0
+DALCAN-8-3,DALCAN,-8,3,3,normal,0
+DALCAN-8-4,DALCAN,-8,4,1,abnormal development,0
+DALCAN-8-4,DALCAN,-8,4,2,normal,0
+DALCAN-8-4,DALCAN,-8,4,3,normal,0
+DALORN-2-1,DALORN,-2,1,1,normal,1
+DALORN-2-1,DALORN,-2,1,2,normal,1
+DALORN-2-1,DALORN,-2,1,3,normal,1
+DALORN-2-2,DALORN,-2,2,1,normal,1
+DALORN-2-2,DALORN,-2,2,2,normal,1
+DALORN-2-2,DALORN,-2,2,3,normal,1
+DALORN-2-3,DALORN,-2,3,1,normal,1
+DALORN-2-3,DALORN,-2,3,2,normal,1
+DALORN-2-3,DALORN,-2,3,3,abnormal development,1
+DALORN-2-4,DALORN,-2,4,1,normal,1
+DALORN-2-4,DALORN,-2,4,2,normal,1
+DALORN-2-4,DALORN,-2,4,3,normal,1
+DALORN-4-1,DALORN,-4,1,1,leaf not exposed,0
+DALORN-4-1,DALORN,-4,1,2,normal,1
+DALORN-4-1,DALORN,-4,1,3,normal,1
+DALORN-4-2,DALORN,-4,2,1,normal,1
+DALORN-4-2,DALORN,-4,2,2,normal,1
+DALORN-4-2,DALORN,-4,2,3,normal,1
+DALORN-4-3,DALORN,-4,3,1,normal,1
+DALORN-4-3,DALORN,-4,3,2,normal,1
+DALORN-4-3,DALORN,-4,3,3,normal,1
+DALORN-4-4,DALORN,-4,4,1,normal,1
+DALORN-4-4,DALORN,-4,4,2,normal,1
+DALORN-4-4,DALORN,-4,4,3,normal,1
+DALORN-6-1,DALORN,-6,1,1,normal,1
+DALORN-6-1,DALORN,-6,1,2,normal,1
+DALORN-6-1,DALORN,-6,1,3,normal,1
+DALORN-6-2,DALORN,-6,2,1,normal,0
+DALORN-6-2,DALORN,-6,2,2,normal,0
+DALORN-6-2,DALORN,-6,2,3,normal,0
+DALORN-6-3,DALORN,-6,3,1,normal,0
+DALORN-6-3,DALORN,-6,3,2,normal,1
+DALORN-6-3,DALORN,-6,3,3,normal,1
+DALORN-6-4,DALORN,-6,4,1,normal,0
+DALORN-6-4,DALORN,-6,4,2,normal,0
+DALORN-6-4,DALORN,-6,4,3,normal,0
+DALORN-8-1,DALORN,-8,1,1,normal,0
+DALORN-8-1,DALORN,-8,1,2,normal,0
+DALORN-8-1,DALORN,-8,1,3,normal,0
+DALORN-8-2,DALORN,-8,2,1,normal,0
+DALORN-8-2,DALORN,-8,2,2,normal,0
+DALORN-8-2,DALORN,-8,2,3,leaf not exposed,0
+DALORN-8-3,DALORN,-8,3,1,normal,0
+DALORN-8-3,DALORN,-8,3,2,normal,0
+DALORN-8-3,DALORN,-8,3,3,normal,0
+DALORN-8-4,DALORN,-8,4,1,abnormal development,0
+DALORN-8-4,DALORN,-8,4,2,normal,0
+DALORN-8-4,DALORN,-8,4,3,normal,0
+DALSEA-2-1,DALSEA,-2,1,1,normal,1
+DALSEA-2-1,DALSEA,-2,1,2,abnormal development,1
+DALSEA-2-1,DALSEA,-2,1,3,normal,1
+DALSEA-2-2,DALSEA,-2,2,1,leaf not exposed,1
+DALSEA-2-2,DALSEA,-2,2,2,normal,1
+DALSEA-2-2,DALSEA,-2,2,3,normal,1
+DALSEA-2-3,DALSEA,-2,3,1,normal,1
+DALSEA-2-3,DALSEA,-2,3,2,normal,1
+DALSEA-2-3,DALSEA,-2,3,3,normal,1
+DALSEA-2-4,DALSEA,-2,4,1,normal,1
+DALSEA-2-4,DALSEA,-2,4,2,normal,1
+DALSEA-2-4,DALSEA,-2,4,3,normal,1
+DALSEA-4-1,DALSEA,-4,1,1,normal,1
+DALSEA-4-1,DALSEA,-4,1,2,normal,1
+DALSEA-4-1,DALSEA,-4,1,3,normal,1
+DALSEA-4-2,DALSEA,-4,2,1,normal,1
+DALSEA-4-2,DALSEA,-4,2,2,normal,1
+DALSEA-4-2,DALSEA,-4,2,3,normal,1
+DALSEA-4-3,DALSEA,-4,3,1,normal,1
+DALSEA-4-3,DALSEA,-4,3,2,normal,1
+DALSEA-4-3,DALSEA,-4,3,3,normal,1
+DALSEA-4-4,DALSEA,-4,4,1,normal,1
+DALSEA-4-4,DALSEA,-4,4,2,normal,1
+DALSEA-4-4,DALSEA,-4,4,3,normal,1
+DALSEA-6-1,DALSEA,-6,1,1,normal,0
+DALSEA-6-1,DALSEA,-6,1,2,normal,0
+DALSEA-6-1,DALSEA,-6,1,3,normal,0
+DALSEA-6-2,DALSEA,-6,2,1,leaf not exposed,0
+DALSEA-6-2,DALSEA,-6,2,2,normal,0
+DALSEA-6-2,DALSEA,-6,2,3,normal,0
+DALSEA-6-3,DALSEA,-6,3,1,normal,0
+DALSEA-6-3,DALSEA,-6,3,2,normal,0
+DALSEA-6-3,DALSEA,-6,3,3,normal,0
+DALSEA-6-4,DALSEA,-6,4,1,normal,0
+DALSEA-6-4,DALSEA,-6,4,2,normal,1
+DALSEA-6-4,DALSEA,-6,4,3,normal,1
+DALSEA-8-1,DALSEA,-8,1,1,abnormal development,0
+DALSEA-8-1,DALSEA,-8,1,2,normal,0
+DALSEA-8-1,DALSEA,-8,1,3,normal,0
+DALSEA-8-2,DALSEA,-8,2,1,normal,0
+DALSEA-8-2,DALSEA,-8,2,2,abnormal development,0
+DALSEA-8-2,DALSEA,-8,2,3,normal,0
+DALSEA-8-3,DALSEA,-8,3,1,leaf not exposed,0
+DALSEA-8-3,DALSEA,-8,3,2,normal,0
+DALSEA-8-3,DALSEA,-8,3,3,normal,0
+DALSEA-8-4,DALSEA,-8,4,1,normal,0
+DALSEA-8-4,DALSEA,-8,4,2,normal,0
+DALSEA-8-4,DALSEA,-8,4,3,normal,0
+ELYELY-2-1,ELYELY,-2,1,1,normal,1
+ELYELY-2-1,ELYELY,-2,1,2,normal,1
+ELYELY-2-1,ELYELY,-2,1,3,normal,1
+ELYELY-2-2,ELYELY,-2,2,1,normal,1
+ELYELY-2-2,ELYELY,-2,2,2,normal,1
+ELYELY-2-2,ELYELY,-2,2,3,normal,1
+ELYELY-2-3,ELYELY,-2,3,1,normal,1
+ELYELY-2-3,ELYELY,-2,3,2,normal,1
+ELYELY-2-3,ELYELY,-2,3,3,normal,1
+ELYELY-2-4,ELYELY,-2,4,1,normal,1
+ELYELY-2-4,ELYELY,-2,4,2,normal,1
+ELYELY-2-4,ELYELY,-2,4,3,normal,1
+ELYELY-4-1,ELYELY,-4,1,1,normal,1
+ELYELY-4-1,ELYELY,-4,1,2,normal,1
+ELYELY-4-1,ELYELY,-4,1,3,normal,1
+ELYELY-4-2,ELYELY,-4,2,1,normal,1
+ELYELY-4-2,ELYELY,-4,2,2,normal,1
+ELYELY-4-2,ELYELY,-4,2,3,normal,1
+ELYELY-4-3,ELYELY,-4,3,1,normal,1
+ELYELY-4-3,ELYELY,-4,3,2,normal,1
+ELYELY-4-3,ELYELY,-4,3,3,normal,1
+ELYELY-4-4,ELYELY,-4,4,1,normal,1
+ELYELY-4-4,ELYELY,-4,4,2,normal,1
+ELYELY-4-4,ELYELY,-4,4,3,normal,1
+ELYELY-6-1,ELYELY,-6,1,1,normal,1
+ELYELY-6-1,ELYELY,-6,1,2,normal,1
+ELYELY-6-1,ELYELY,-6,1,3,normal,0
+ELYELY-6-2,ELYELY,-6,2,1,normal,1
+ELYELY-6-2,ELYELY,-6,2,2,normal,1
+ELYELY-6-2,ELYELY,-6,2,3,normal,1
+ELYELY-6-3,ELYELY,-6,3,1,normal,1
+ELYELY-6-3,ELYELY,-6,3,2,normal,1
+ELYELY-6-3,ELYELY,-6,3,3,normal,1
+ELYELY-6-4,ELYELY,-6,4,1,normal,1
+ELYELY-6-4,ELYELY,-6,4,2,normal,1
+ELYELY-6-4,ELYELY,-6,4,3,normal,1
+ELYELY-8-1,ELYELY,-8,1,1,normal,0
+ELYELY-8-1,ELYELY,-8,1,2,normal,0
+ELYELY-8-1,ELYELY,-8,1,3,normal,0
+ELYELY-8-2,ELYELY,-8,2,1,normal,0
+ELYELY-8-2,ELYELY,-8,2,2,normal,0
+ELYELY-8-2,ELYELY,-8,2,3,normal,0
+ELYELY-8-3,ELYELY,-8,3,1,normal,0
+ELYELY-8-3,ELYELY,-8,3,2,normal,0
+ELYELY-8-3,ELYELY,-8,3,3,normal,0
+ELYELY-8-4,ELYELY,-8,4,1,normal,0
+ELYELY-8-4,ELYELY,-8,4,2,normal,0
+ELYELY-8-4,ELYELY,-8,4,3,normal,0
+ELYTRA-2-1,ELYTRA,-2,1,1,normal,1
+ELYTRA-2-1,ELYTRA,-2,1,2,normal,1
+ELYTRA-2-1,ELYTRA,-2,1,3,normal,1
+ELYTRA-2-2,ELYTRA,-2,2,1,normal,1
+ELYTRA-2-2,ELYTRA,-2,2,2,normal,1
+ELYTRA-2-2,ELYTRA,-2,2,3,normal,1
+ELYTRA-2-3,ELYTRA,-2,3,1,normal,1
+ELYTRA-2-3,ELYTRA,-2,3,2,normal,1
+ELYTRA-2-3,ELYTRA,-2,3,3,normal,1
+ELYTRA-2-4,ELYTRA,-2,4,1,normal,1
+ELYTRA-2-4,ELYTRA,-2,4,3,normal,1
+ELYTRA-4-1,ELYTRA,-4,1,1,normal,1
+ELYTRA-4-1,ELYTRA,-4,1,2,normal,1
+ELYTRA-4-1,ELYTRA,-4,1,3,normal,1
+ELYTRA-4-2,ELYTRA,-4,2,1,normal,1
+ELYTRA-4-2,ELYTRA,-4,2,2,normal,1
+ELYTRA-4-2,ELYTRA,-4,2,3,normal,1
+ELYTRA-4-3,ELYTRA,-4,3,1,normal,1
+ELYTRA-4-3,ELYTRA,-4,3,2,normal,1
+ELYTRA-4-3,ELYTRA,-4,3,3,normal,1
+ELYTRA-4-4,ELYTRA,-4,4,1,normal,1
+ELYTRA-4-4,ELYTRA,-4,4,3,normal,1
+ELYTRA-6-1,ELYTRA,-6,1,1,normal,1
+ELYTRA-6-1,ELYTRA,-6,1,2,normal,1
+ELYTRA-6-1,ELYTRA,-6,1,3,normal,1
+ELYTRA-6-2,ELYTRA,-6,2,1,normal,1
+ELYTRA-6-2,ELYTRA,-6,2,2,normal,1
+ELYTRA-6-2,ELYTRA,-6,2,3,normal,1
+ELYTRA-6-3,ELYTRA,-6,3,1,normal,1
+ELYTRA-6-3,ELYTRA,-6,3,2,normal,1
+ELYTRA-6-3,ELYTRA,-6,3,3,normal,1
+ELYTRA-6-4,ELYTRA,-6,4,1,normal,1
+ELYTRA-6-4,ELYTRA,-6,4,2,normal,1
+ELYTRA-6-4,ELYTRA,-6,4,3,normal,1
+ELYTRA-8-1,ELYTRA,-8,1,1,normal,0
+ELYTRA-8-1,ELYTRA,-8,1,3,normal,0
+ELYTRA-8-2,ELYTRA,-8,2,1,normal,0
+ELYTRA-8-2,ELYTRA,-8,2,2,normal,0
+ELYTRA-8-2,ELYTRA,-8,2,3,normal,0
+ELYTRA-8-3,ELYTRA,-8,3,1,normal,0
+ELYTRA-8-3,ELYTRA,-8,3,2,normal,0
+ELYTRA-8-3,ELYTRA,-8,3,3,normal,0
+ELYTRA-8-4,ELYTRA,-8,4,1,normal,0
+ELYTRA-8-4,ELYTRA,-8,4,2,normal,0
+ELYTRA-8-4,ELYTRA,-8,4,3,normal,0
+ERIPUM-2-1,ERIPUM,-2,1,1,true leaves,1
+ERIPUM-2-1,ERIPUM,-2,1,2,true leaves,1
+ERIPUM-2-1,ERIPUM,-2,1,3,true leaves,1
+ERIPUM-2-2,ERIPUM,-2,2,1,true leaves,1
+ERIPUM-2-2,ERIPUM,-2,2,2,true leaves,1
+ERIPUM-2-2,ERIPUM,-2,2,3,true leaves,1
+ERIPUM-2-3,ERIPUM,-2,3,1,true leaves,1
+ERIPUM-2-3,ERIPUM,-2,3,2,true leaves,1
+ERIPUM-2-3,ERIPUM,-2,3,3,true leaves,1
+ERIPUM-2-4,ERIPUM,-2,4,1,true leaves,1
+ERIPUM-2-4,ERIPUM,-2,4,2,true leaves,1
+ERIPUM-2-4,ERIPUM,-2,4,3,true leaves,1
+ERIPUM-4-1,ERIPUM,-4,1,1,true leaves,1
+ERIPUM-4-1,ERIPUM,-4,1,2,true leaves,1
+ERIPUM-4-1,ERIPUM,-4,1,3,true leaves,1
+ERIPUM-4-2,ERIPUM,-4,2,1,true leaves,1
+ERIPUM-4-2,ERIPUM,-4,2,2,true leaves,1
+ERIPUM-4-2,ERIPUM,-4,2,3,true leaves,1
+ERIPUM-4-3,ERIPUM,-4,3,1,true leaves,1
+ERIPUM-4-3,ERIPUM,-4,3,2,true leaves,1
+ERIPUM-4-3,ERIPUM,-4,3,3,true leaves,1
+ERIPUM-4-4,ERIPUM,-4,4,1,true leaves,1
+ERIPUM-4-4,ERIPUM,-4,4,2,true leaves,1
+ERIPUM-4-4,ERIPUM,-4,4,3,true leaves,1
+ERIPUM-6-1,ERIPUM,-6,1,1,normal,0
+ERIPUM-6-1,ERIPUM,-6,1,2,true leaves,0
+ERIPUM-6-1,ERIPUM,-6,1,3,true leaves,0
+ERIPUM-6-2,ERIPUM,-6,2,1,true leaves,1
+ERIPUM-6-2,ERIPUM,-6,2,2,true leaves,1
+ERIPUM-6-2,ERIPUM,-6,2,3,true leaves,1
+ERIPUM-6-3,ERIPUM,-6,3,1,true leaves,1
+ERIPUM-6-3,ERIPUM,-6,3,2,normal,1
+ERIPUM-6-3,ERIPUM,-6,3,3,true leaves,1
+ERIPUM-6-4,ERIPUM,-6,4,1,normal,1
+ERIPUM-6-4,ERIPUM,-6,4,2,true leaves,1
+ERIPUM-6-4,ERIPUM,-6,4,3,true leaves,1
+ERIPUM-8-1,ERIPUM,-8,1,1,true leaves,0
+ERIPUM-8-1,ERIPUM,-8,1,2,normal,0
+ERIPUM-8-1,ERIPUM,-8,1,3,true leaves,0
+ERIPUM-8-2,ERIPUM,-8,2,1,true leaves,0
+ERIPUM-8-2,ERIPUM,-8,2,2,true leaves,0
+ERIPUM-8-2,ERIPUM,-8,2,3,true leaves,0
+ERIPUM-8-3,ERIPUM,-8,3,2,true leaves,0
+ERIPUM-8-3,ERIPUM,-8,3,3,true leaves,0
+ERIPUM-8-4,ERIPUM,-8,4,1,true leaves,0
+ERIPUM-8-4,ERIPUM,-8,4,2,true leaves,0
+ERIPUM-8-4,ERIPUM,-8,4,3,true leaves,0
+ERISPE-2-1,ERISPE,-2,1,2,normal,1
+ERISPE-2-1,ERISPE,-2,1,3,normal,0
+ERISPE-2-2,ERISPE,-2,2,1,normal,1
+ERISPE-2-2,ERISPE,-2,2,2,normal,1
+ERISPE-2-2,ERISPE,-2,2,3,normal,0
+ERISPE-2-3,ERISPE,-2,3,1,true leaves,1
+ERISPE-2-3,ERISPE,-2,3,2,normal,1
+ERISPE-2-3,ERISPE,-2,3,3,normal,1
+ERISPE-2-4,ERISPE,-2,4,1,normal,1
+ERISPE-2-4,ERISPE,-2,4,2,true leaves,1
+ERISPE-2-4,ERISPE,-2,4,3,true leaves,1
+ERISPE-4-1,ERISPE,-4,1,1,normal,1
+ERISPE-4-1,ERISPE,-4,1,2,normal,1
+ERISPE-4-1,ERISPE,-4,1,3,normal,1
+ERISPE-4-2,ERISPE,-4,2,1,normal,1
+ERISPE-4-2,ERISPE,-4,2,2,normal,1
+ERISPE-4-2,ERISPE,-4,2,3,normal,1
+ERISPE-4-3,ERISPE,-4,3,1,normal,1
+ERISPE-4-3,ERISPE,-4,3,2,normal,1
+ERISPE-4-3,ERISPE,-4,3,3,normal,1
+ERISPE-4-4,ERISPE,-4,4,1,normal,0
+ERISPE-4-4,ERISPE,-4,4,2,normal,1
+ERISPE-4-4,ERISPE,-4,4,3,normal,1
+ERISPE-6-1,ERISPE,-6,1,1,true leaves,0
+ERISPE-6-1,ERISPE,-6,1,2,normal,0
+ERISPE-6-1,ERISPE,-6,1,3,true leaves,0
+ERISPE-6-2,ERISPE,-6,2,1,normal,1
+ERISPE-6-2,ERISPE,-6,2,2,normal,1
+ERISPE-6-2,ERISPE,-6,2,3,true leaves,1
+ERISPE-6-3,ERISPE,-6,3,1,normal,0
+ERISPE-6-3,ERISPE,-6,3,2,normal,1
+ERISPE-6-3,ERISPE,-6,3,3,normal,1
+ERISPE-6-4,ERISPE,-6,4,1,normal,0
+ERISPE-6-4,ERISPE,-6,4,2,normal,1
+ERISPE-6-4,ERISPE,-6,4,3,normal,1
+ERISPE-8-1,ERISPE,-8,1,1,normal,0
+ERISPE-8-1,ERISPE,-8,1,2,normal,0
+ERISPE-8-2,ERISPE,-8,2,1,normal,0
+ERISPE-8-2,ERISPE,-8,2,2,abnormal development,0
+ERISPE-8-2,ERISPE,-8,2,3,abnormal development,0
+ERISPE-8-3,ERISPE,-8,3,1,normal,0
+ERISPE-8-3,ERISPE,-8,3,2,true leaves,0
+ERISPE-8-4,ERISPE,-8,4,1,normal,0
+ERISPE-8-4,ERISPE,-8,4,2,true leaves,0
+ERISPE-8-4,ERISPE,-8,4,3,normal,0
+ERIUMB-2-1,ERIUMB,-2,1,1,abnormal development,1
+ERIUMB-2-1,ERIUMB,-2,1,2,normal,1
+ERIUMB-2-1,ERIUMB,-2,1,3,normal,1
+ERIUMB-2-2,ERIUMB,-2,2,1,normal,1
+ERIUMB-2-2,ERIUMB,-2,2,2,normal,1
+ERIUMB-2-2,ERIUMB,-2,2,3,normal,1
+ERIUMB-2-3,ERIUMB,-2,3,1,normal,1
+ERIUMB-2-3,ERIUMB,-2,3,2,normal,1
+ERIUMB-2-3,ERIUMB,-2,3,3,normal,1
+ERIUMB-2-4,ERIUMB,-2,4,1,normal,1
+ERIUMB-2-4,ERIUMB,-2,4,2,abnormal development,1
+ERIUMB-2-4,ERIUMB,-2,4,3,abnormal development,1
+ERIUMB-4-1,ERIUMB,-4,1,1,normal,1
+ERIUMB-4-1,ERIUMB,-4,1,2,abnormal development,1
+ERIUMB-4-1,ERIUMB,-4,1,3,normal,1
+ERIUMB-4-2,ERIUMB,-4,2,1,normal,1
+ERIUMB-4-2,ERIUMB,-4,2,2,normal,1
+ERIUMB-4-2,ERIUMB,-4,2,3,normal,1
+ERIUMB-4-3,ERIUMB,-4,3,1,normal,1
+ERIUMB-4-3,ERIUMB,-4,3,2,abnormal development,1
+ERIUMB-4-3,ERIUMB,-4,3,3,normal,1
+ERIUMB-4-4,ERIUMB,-4,4,1,normal,1
+ERIUMB-4-4,ERIUMB,-4,4,2,normal,0
+ERIUMB-4-4,ERIUMB,-4,4,3,normal,0
+ERIUMB-6-1,ERIUMB,-6,1,1,normal,1
+ERIUMB-6-1,ERIUMB,-6,1,2,normal,1
+ERIUMB-6-1,ERIUMB,-6,1,3,normal,1
+ERIUMB-6-2,ERIUMB,-6,2,1,leaf not exposed,0
+ERIUMB-6-2,ERIUMB,-6,2,2,normal,1
+ERIUMB-6-2,ERIUMB,-6,2,3,normal,0
+ERIUMB-6-3,ERIUMB,-6,3,1,leaf not exposed,0
+ERIUMB-6-3,ERIUMB,-6,3,2,normal,0
+ERIUMB-6-3,ERIUMB,-6,3,3,normal,0
+ERIUMB-6-4,ERIUMB,-6,4,1,leaf not exposed,1
+ERIUMB-6-4,ERIUMB,-6,4,2,normal,0
+ERIUMB-6-4,ERIUMB,-6,4,3,leaf not exposed,0
+ERIUMB-8-1,ERIUMB,-8,1,1,normal,0
+ERIUMB-8-1,ERIUMB,-8,1,2,normal,0
+ERIUMB-8-1,ERIUMB,-8,1,3,normal,0
+ERIUMB-8-2,ERIUMB,-8,2,1,leaf not exposed,0
+ERIUMB-8-2,ERIUMB,-8,2,2,normal,0
+ERIUMB-8-2,ERIUMB,-8,2,3,abnormal development,0
+ERIUMB-8-3,ERIUMB,-8,3,1,normal,0
+ERIUMB-8-3,ERIUMB,-8,3,2,normal,0
+ERIUMB-8-3,ERIUMB,-8,3,3,normal,0
+ERIUMB-8-4,ERIUMB,-8,4,1,abnormal development,0
+ERIUMB-8-4,ERIUMB,-8,4,2,normal,0
+ERIUMB-8-4,ERIUMB,-8,4,3,normal,0
+HEDBOR-2-1,HEDBOR,-2,1,1,true leaves,1
+HEDBOR-2-1,HEDBOR,-2,1,2,true leaves,1
+HEDBOR-2-1,HEDBOR,-2,1,3,true leaves,1
+HEDBOR-2-2,HEDBOR,-2,2,1,true leaves,1
+HEDBOR-2-2,HEDBOR,-2,2,2,true leaves,1
+HEDBOR-2-2,HEDBOR,-2,2,3,true leaves,1
+HEDBOR-2-3,HEDBOR,-2,3,1,true leaves,1
+HEDBOR-2-3,HEDBOR,-2,3,2,true leaves,1
+HEDBOR-2-3,HEDBOR,-2,3,3,true leaves,1
+HEDBOR-2-4,HEDBOR,-2,4,1,abnormal development,1
+HEDBOR-2-4,HEDBOR,-2,4,2,true leaves,1
+HEDBOR-2-4,HEDBOR,-2,4,3,abnormal development,1
+HEDBOR-4-1,HEDBOR,-4,1,1,true leaves,1
+HEDBOR-4-1,HEDBOR,-4,1,2,true leaves,1
+HEDBOR-4-1,HEDBOR,-4,1,3,normal,1
+HEDBOR-4-2,HEDBOR,-4,2,1,abnormal development,1
+HEDBOR-4-2,HEDBOR,-4,2,2,true leaves,1
+HEDBOR-4-2,HEDBOR,-4,2,3,true leaves,1
+HEDBOR-4-3,HEDBOR,-4,3,1,true leaves,1
+HEDBOR-4-3,HEDBOR,-4,3,2,true leaves,1
+HEDBOR-4-3,HEDBOR,-4,3,3,true leaves,1
+HEDBOR-4-4,HEDBOR,-4,4,1,true leaves,1
+HEDBOR-4-4,HEDBOR,-4,4,2,true leaves,1
+HEDBOR-4-4,HEDBOR,-4,4,3,true leaves,1
+HEDBOR-6-1,HEDBOR,-6,1,1,true leaves,1
+HEDBOR-6-1,HEDBOR,-6,1,2,true leaves,1
+HEDBOR-6-1,HEDBOR,-6,1,3,true leaves,1
+HEDBOR-6-2,HEDBOR,-6,2,1,true leaves,1
+HEDBOR-6-2,HEDBOR,-6,2,2,true leaves,1
+HEDBOR-6-2,HEDBOR,-6,2,3,true leaves,1
+HEDBOR-6-3,HEDBOR,-6,3,1,true leaves,1
+HEDBOR-6-3,HEDBOR,-6,3,2,true leaves,1
+HEDBOR-6-3,HEDBOR,-6,3,3,normal,1
+HEDBOR-6-4,HEDBOR,-6,4,1,true leaves,1
+HEDBOR-6-4,HEDBOR,-6,4,2,true leaves,1
+HEDBOR-6-4,HEDBOR,-6,4,3,true leaves,1
+HEDBOR-8-1,HEDBOR,-8,1,1,true leaves,0
+HEDBOR-8-1,HEDBOR,-8,1,2,true leaves,0
+HEDBOR-8-1,HEDBOR,-8,1,3,true leaves,0
+HEDBOR-8-2,HEDBOR,-8,2,1,true leaves,0
+HEDBOR-8-2,HEDBOR,-8,2,2,true leaves,1
+HEDBOR-8-2,HEDBOR,-8,2,3,true leaves,0
+HEDBOR-8-3,HEDBOR,-8,3,1,true leaves,0
+HEDBOR-8-3,HEDBOR,-8,3,2,true leaves,0
+HEDBOR-8-3,HEDBOR,-8,3,3,true leaves,1
+HEDBOR-8-4,HEDBOR,-8,4,1,normal,0
+HEDBOR-8-4,HEDBOR,-8,4,2,normal,0
+HEDBOR-8-4,HEDBOR,-8,4,3,normal,0
+HELMUL-2-1,HELMUL,-2,1,1,true leaves,1
+HELMUL-2-1,HELMUL,-2,1,2,normal,1
+HELMUL-2-1,HELMUL,-2,1,3,true leaves,1
+HELMUL-2-2,HELMUL,-2,2,1,normal,1
+HELMUL-2-2,HELMUL,-2,2,2,true leaves,1
+HELMUL-2-2,HELMUL,-2,2,3,normal,1
+HELMUL-2-3,HELMUL,-2,3,1,normal,1
+HELMUL-2-3,HELMUL,-2,3,2,normal,1
+HELMUL-2-3,HELMUL,-2,3,3,normal,1
+HELMUL-2-4,HELMUL,-2,4,1,true leaves,1
+HELMUL-2-4,HELMUL,-2,4,2,true leaves,1
+HELMUL-2-4,HELMUL,-2,4,3,true leaves,1
+HELMUL-4-1,HELMUL,-4,1,1,normal,1
+HELMUL-4-1,HELMUL,-4,1,2,true leaves,1
+HELMUL-4-1,HELMUL,-4,1,3,true leaves,1
+HELMUL-4-2,HELMUL,-4,2,1,true leaves,1
+HELMUL-4-2,HELMUL,-4,2,2,true leaves,1
+HELMUL-4-2,HELMUL,-4,2,3,true leaves,1
+HELMUL-4-3,HELMUL,-4,3,1,true leaves,1
+HELMUL-4-3,HELMUL,-4,3,2,true leaves,1
+HELMUL-4-3,HELMUL,-4,3,3,true leaves,1
+HELMUL-4-4,HELMUL,-4,4,1,true leaves,1
+HELMUL-4-4,HELMUL,-4,4,2,true leaves,1
+HELMUL-4-4,HELMUL,-4,4,3,true leaves,1
+HELMUL-6-1,HELMUL,-6,1,1,true leaves,0
+HELMUL-6-1,HELMUL,-6,1,2,true leaves,0
+HELMUL-6-1,HELMUL,-6,1,3,true leaves,0
+HELMUL-6-2,HELMUL,-6,2,1,normal,1
+HELMUL-6-2,HELMUL,-6,2,2,true leaves,1
+HELMUL-6-2,HELMUL,-6,2,3,true leaves,1
+HELMUL-6-3,HELMUL,-6,3,1,true leaves,1
+HELMUL-6-3,HELMUL,-6,3,2,true leaves,1
+HELMUL-6-3,HELMUL,-6,3,3,true leaves,1
+HELMUL-6-4,HELMUL,-6,4,1,true leaves,1
+HELMUL-6-4,HELMUL,-6,4,2,true leaves,1
+HELMUL-6-4,HELMUL,-6,4,3,true leaves,1
+HELMUL-8-1,HELMUL,-8,1,1,normal,0
+HELMUL-8-1,HELMUL,-8,1,2,normal,0
+HELMUL-8-1,HELMUL,-8,1,3,normal,0
+HELMUL-8-2,HELMUL,-8,2,1,true leaves,0
+HELMUL-8-2,HELMUL,-8,2,2,true leaves,0
+HELMUL-8-2,HELMUL,-8,2,3,true leaves,0
+HELMUL-8-3,HELMUL,-8,3,1,true leaves,0
+HELMUL-8-3,HELMUL,-8,3,2,true leaves,0
+HELMUL-8-3,HELMUL,-8,3,3,true leaves,0
+HELMUL-8-4,HELMUL,-8,4,1,true leaves,0
+HELMUL-8-4,HELMUL,-8,4,2,true leaves,0
+HELMUL-8-4,HELMUL,-8,4,3,true leaves,0
+HESCOM-2-1,HESCOM,-2,1,1,normal,1
+HESCOM-2-1,HESCOM,-2,1,2,normal,1
+HESCOM-2-1,HESCOM,-2,1,3,normal,1
+HESCOM-2-2,HESCOM,-2,2,1,normal,1
+HESCOM-2-2,HESCOM,-2,2,2,normal,1
+HESCOM-2-2,HESCOM,-2,2,3,normal,1
+HESCOM-2-3,HESCOM,-2,3,1,normal,1
+HESCOM-2-3,HESCOM,-2,3,2,normal,1
+HESCOM-2-3,HESCOM,-2,3,3,normal,1
+HESCOM-2-4,HESCOM,-2,4,1,normal,1
+HESCOM-2-4,HESCOM,-2,4,2,normal,1
+HESCOM-2-4,HESCOM,-2,4,3,normal,1
+HESCOM-4-1,HESCOM,-4,1,1,normal,1
+HESCOM-4-1,HESCOM,-4,1,2,normal,1
+HESCOM-4-1,HESCOM,-4,1,3,normal,1
+HESCOM-4-2,HESCOM,-4,2,1,normal,1
+HESCOM-4-2,HESCOM,-4,2,2,normal,1
+HESCOM-4-2,HESCOM,-4,2,3,normal,1
+HESCOM-4-3,HESCOM,-4,3,1,normal,1
+HESCOM-4-3,HESCOM,-4,3,2,normal,1
+HESCOM-4-3,HESCOM,-4,3,3,normal,1
+HESCOM-4-4,HESCOM,-4,4,1,normal,1
+HESCOM-4-4,HESCOM,-4,4,2,normal,1
+HESCOM-4-4,HESCOM,-4,4,3,normal,1
+HESCOM-6-1,HESCOM,-6,1,1,normal,1
+HESCOM-6-1,HESCOM,-6,1,2,normal,1
+HESCOM-6-1,HESCOM,-6,1,3,normal,1
+HESCOM-6-2,HESCOM,-6,2,1,normal,1
+HESCOM-6-2,HESCOM,-6,2,2,normal,1
+HESCOM-6-2,HESCOM,-6,2,3,normal,1
+HESCOM-6-3,HESCOM,-6,3,1,normal,1
+HESCOM-6-3,HESCOM,-6,3,2,normal,1
+HESCOM-6-3,HESCOM,-6,3,3,normal,1
+HESCOM-6-4,HESCOM,-6,4,1,normal,1
+HESCOM-6-4,HESCOM,-6,4,2,normal,1
+HESCOM-6-4,HESCOM,-6,4,3,normal,1
+HESCOM-8-1,HESCOM,-8,1,1,normal,0
+HESCOM-8-1,HESCOM,-8,1,2,normal,1
+HESCOM-8-1,HESCOM,-8,1,3,normal,1
+HESCOM-8-2,HESCOM,-8,2,1,normal,1
+HESCOM-8-2,HESCOM,-8,2,2,normal,1
+HESCOM-8-2,HESCOM,-8,2,3,normal,0
+HESCOM-8-3,HESCOM,-8,3,1,normal,0
+HESCOM-8-3,HESCOM,-8,3,2,normal,1
+HESCOM-8-3,HESCOM,-8,3,3,normal,1
+HESCOM-8-4,HESCOM,-8,4,1,normal,1
+HESCOM-8-4,HESCOM,-8,4,2,normal,1
+HESCOM-8-4,HESCOM,-8,4,3,normal,1
+KRALAN-2-1,KRALAN,-2,1,1,normal,1
+KRALAN-2-1,KRALAN,-2,1,2,normal,1
+KRALAN-2-1,KRALAN,-2,1,3,normal,1
+KRALAN-2-2,KRALAN,-2,2,1,true leaves,1
+KRALAN-2-2,KRALAN,-2,2,2,normal,1
+KRALAN-2-2,KRALAN,-2,2,3,normal,1
+KRALAN-2-3,KRALAN,-2,3,1,true leaves,1
+KRALAN-2-3,KRALAN,-2,3,2,abnormal development,1
+KRALAN-2-3,KRALAN,-2,3,3,true leaves,1
+KRALAN-2-4,KRALAN,-2,4,1,true leaves,1
+KRALAN-2-4,KRALAN,-2,4,2,normal,1
+KRALAN-2-4,KRALAN,-2,4,3,leaf not exposed,1
+KRALAN-4-1,KRALAN,-4,1,1,true leaves,1
+KRALAN-4-1,KRALAN,-4,1,2,true leaves,1
+KRALAN-4-1,KRALAN,-4,1,3,normal,1
+KRALAN-4-2,KRALAN,-4,2,1,normal,1
+KRALAN-4-2,KRALAN,-4,2,2,normal,1
+KRALAN-4-2,KRALAN,-4,2,3,normal,1
+KRALAN-4-3,KRALAN,-4,3,1,true leaves,1
+KRALAN-4-3,KRALAN,-4,3,2,true leaves,1
+KRALAN-4-3,KRALAN,-4,3,3,normal,1
+KRALAN-4-4,KRALAN,-4,4,1,normal,1
+KRALAN-4-4,KRALAN,-4,4,2,normal,1
+KRALAN-4-4,KRALAN,-4,4,3,normal,1
+KRALAN-6-1,KRALAN,-6,1,1,normal,0
+KRALAN-6-1,KRALAN,-6,1,2,true leaves,0
+KRALAN-6-1,KRALAN,-6,1,3,normal,1
+KRALAN-6-2,KRALAN,-6,2,1,true leaves,1
+KRALAN-6-2,KRALAN,-6,2,2,true leaves,1
+KRALAN-6-2,KRALAN,-6,2,3,normal,1
+KRALAN-6-3,KRALAN,-6,3,1,true leaves,1
+KRALAN-6-3,KRALAN,-6,3,2,true leaves,1
+KRALAN-6-3,KRALAN,-6,3,3,normal,1
+KRALAN-6-4,KRALAN,-6,4,1,normal,0
+KRALAN-6-4,KRALAN,-6,4,2,true leaves,1
+KRALAN-6-4,KRALAN,-6,4,3,normal,0
+KRALAN-8-1,KRALAN,-8,1,1,normal,0
+KRALAN-8-1,KRALAN,-8,1,2,normal,0
+KRALAN-8-1,KRALAN,-8,1,3,normal,0
+KRALAN-8-2,KRALAN,-8,2,1,true leaves,0
+KRALAN-8-2,KRALAN,-8,2,2,true leaves,0
+KRALAN-8-2,KRALAN,-8,2,3,normal,0
+KRALAN-8-3,KRALAN,-8,3,1,true leaves,0
+KRALAN-8-3,KRALAN,-8,3,2,true leaves,0
+KRALAN-8-3,KRALAN,-8,3,3,normal,0
+KRALAN-8-4,KRALAN,-8,4,1,true leaves,0
+KRALAN-8-4,KRALAN,-8,4,2,small size,0
+KRALAN-8-4,KRALAN,-8,4,3,true leaves,0
+LEYCIN-2-1,LEYCIN,-2,2,1,normal,1
+LEYCIN-2-1,LEYCIN,-2,2,2,normal,1
+LEYCIN-2-1,LEYCIN,-2,2,3,normal,1
+LEYCIN-2-2,LEYCIN,-2,2,1,normal,1
+LEYCIN-2-2,LEYCIN,-2,2,2,normal,1
+LEYCIN-2-2,LEYCIN,-2,2,3,normal,1
+LEYCIN-2-3,LEYCIN,-2,2,1,normal,1
+LEYCIN-2-3,LEYCIN,-2,2,2,normal,1
+LEYCIN-2-3,LEYCIN,-2,2,3,normal,1
+LEYCIN-2-4,LEYCIN,-2,2,1,normal,1
+LEYCIN-2-4,LEYCIN,-2,2,2,normal,1
+LEYCIN-2-4,LEYCIN,-2,2,3,normal,1
+LEYCIN-4-1,LEYCIN,-4,4,1,normal,1
+LEYCIN-4-1,LEYCIN,-4,4,2,normal,1
+LEYCIN-4-1,LEYCIN,-4,4,3,normal,1
+LEYCIN-4-2,LEYCIN,-4,4,1,normal,1
+LEYCIN-4-2,LEYCIN,-4,4,2,normal,1
+LEYCIN-4-2,LEYCIN,-4,4,3,normal,1
+LEYCIN-4-3,LEYCIN,-4,4,1,normal,1
+LEYCIN-4-3,LEYCIN,-4,4,2,normal,1
+LEYCIN-4-3,LEYCIN,-4,4,3,normal,1
+LEYCIN-4-4,LEYCIN,-4,4,1,normal,1
+LEYCIN-4-4,LEYCIN,-4,4,2,normal,1
+LEYCIN-4-4,LEYCIN,-4,4,3,normal,1
+LEYCIN-6-1,LEYCIN,-6,6,1,normal,1
+LEYCIN-6-1,LEYCIN,-6,6,2,normal,0
+LEYCIN-6-1,LEYCIN,-6,6,3,normal,0
+LEYCIN-6-2,LEYCIN,-6,6,1,normal,0
+LEYCIN-6-2,LEYCIN,-6,6,2,normal,0
+LEYCIN-6-2,LEYCIN,-6,6,3,normal,1
+LEYCIN-6-3,LEYCIN,-6,6,1,normal,1
+LEYCIN-6-3,LEYCIN,-6,6,2,normal,1
+LEYCIN-6-3,LEYCIN,-6,6,3,normal,1
+LEYCIN-6-4,LEYCIN,-6,6,1,normal,0
+LEYCIN-6-4,LEYCIN,-6,6,2,normal,1
+LEYCIN-6-4,LEYCIN,-6,6,3,normal,0
+LEYCIN-8-1,LEYCIN,-8,8,1,normal,0
+LEYCIN-8-1,LEYCIN,-8,8,2,normal,0
+LEYCIN-8-1,LEYCIN,-8,8,3,normal,0
+LEYCIN-8-2,LEYCIN,-8,8,1,normal,0
+LEYCIN-8-2,LEYCIN,-8,8,2,normal,0
+LEYCIN-8-2,LEYCIN,-8,8,3,normal,0
+LEYCIN-8-3,LEYCIN,-8,8,1,normal,0
+LEYCIN-8-3,LEYCIN,-8,8,2,normal,0
+LEYCIN-8-3,LEYCIN,-8,8,3,normal,0
+LEYCIN-8-4,LEYCIN,-8,8,1,normal,0
+LEYCIN-8-4,LEYCIN,-8,8,2,normal,0
+LEYCIN-8-4,LEYCIN,-8,8,3,normal,0
+LEYTRI-2-1,LEYTRI,-2,1,1,normal,1
+LEYTRI-2-1,LEYTRI,-2,1,2,normal,1
+LEYTRI-2-1,LEYTRI,-2,1,3,small size,1
+LEYTRI-2-2,LEYTRI,-2,2,1,normal,1
+LEYTRI-2-2,LEYTRI,-2,2,2,normal,1
+LEYTRI-2-2,LEYTRI,-2,2,3,normal,1
+LEYTRI-2-3,LEYTRI,-2,3,1,normal,1
+LEYTRI-2-3,LEYTRI,-2,3,2,normal,1
+LEYTRI-2-3,LEYTRI,-2,3,3,normal,1
+LEYTRI-2-4,LEYTRI,-2,4,1,normal,1
+LEYTRI-2-4,LEYTRI,-2,4,2,normal,1
+LEYTRI-2-4,LEYTRI,-2,4,3,normal,1
+LEYTRI-4-1,LEYTRI,-4,1,1,normal,1
+LEYTRI-4-1,LEYTRI,-4,1,2,normal,1
+LEYTRI-4-1,LEYTRI,-4,1,3,normal,1
+LEYTRI-4-2,LEYTRI,-4,2,1,normal,1
+LEYTRI-4-2,LEYTRI,-4,2,2,normal,1
+LEYTRI-4-2,LEYTRI,-4,2,3,normal,1
+LEYTRI-4-3,LEYTRI,-4,3,1,normal,1
+LEYTRI-4-3,LEYTRI,-4,3,2,normal,1
+LEYTRI-4-3,LEYTRI,-4,3,3,normal,1
+LEYTRI-4-4,LEYTRI,-4,4,1,normal,1
+LEYTRI-4-4,LEYTRI,-4,4,2,normal,1
+LEYTRI-4-4,LEYTRI,-4,4,3,normal,1
+LEYTRI-6-1,LEYTRI,-6,1,1,normal,0
+LEYTRI-6-1,LEYTRI,-6,1,2,normal,1
+LEYTRI-6-1,LEYTRI,-6,1,3,normal,1
+LEYTRI-6-2,LEYTRI,-6,2,1,normal,0
+LEYTRI-6-2,LEYTRI,-6,2,2,normal,0
+LEYTRI-6-2,LEYTRI,-6,2,3,normal,0
+LEYTRI-6-3,LEYTRI,-6,3,1,normal,1
+LEYTRI-6-3,LEYTRI,-6,3,2,normal,0
+LEYTRI-6-3,LEYTRI,-6,3,3,normal,1
+LEYTRI-6-4,LEYTRI,-6,4,1,normal,1
+LEYTRI-6-4,LEYTRI,-6,4,2,normal,1
+LEYTRI-6-4,LEYTRI,-6,4,3,normal,0
+LEYTRI-8-1,LEYTRI,-8,1,1,normal,0
+LEYTRI-8-1,LEYTRI,-8,1,2,normal,0
+LEYTRI-8-1,LEYTRI,-8,1,3,normal,0
+LEYTRI-8-2,LEYTRI,-8,2,1,normal,0
+LEYTRI-8-2,LEYTRI,-8,2,2,normal,0
+LEYTRI-8-2,LEYTRI,-8,2,3,normal,0
+LEYTRI-8-3,LEYTRI,-8,3,1,normal,0
+LEYTRI-8-3,LEYTRI,-8,3,2,normal,0
+LEYTRI-8-3,LEYTRI,-8,3,3,normal,0
+LEYTRI-8-4,LEYTRI,-8,4,1,normal,0
+LEYTRI-8-4,LEYTRI,-8,4,2,normal,0
+LEYTRI-8-4,LEYTRI,-8,4,3,small size,0
+LINLEW-2-1,LINLEW,-2,2,1,normal,1
+LINLEW-2-1,LINLEW,-2,2,2,leaf not exposed,0
+LINLEW-2-1,LINLEW,-2,2,3,normal,1
+LINLEW-2-2,LINLEW,-2,2,1,normal,1
+LINLEW-2-2,LINLEW,-2,2,2,normal,1
+LINLEW-2-2,LINLEW,-2,2,3,leaf not exposed,1
+LINLEW-2-3,LINLEW,-2,2,1,normal,1
+LINLEW-2-3,LINLEW,-2,2,2,normal,1
+LINLEW-2-3,LINLEW,-2,2,3,normal,1
+LINLEW-2-4,LINLEW,-2,2,1,normal,1
+LINLEW-2-4,LINLEW,-2,2,2,normal,1
+LINLEW-2-4,LINLEW,-2,2,3,normal,1
+LINLEW-4-1,LINLEW,-4,4,1,normal,1
+LINLEW-4-1,LINLEW,-4,4,2,leaf not exposed,1
+LINLEW-4-1,LINLEW,-4,4,3,normal,0
+LINLEW-4-2,LINLEW,-4,4,1,normal,1
+LINLEW-4-2,LINLEW,-4,4,2,leaf not exposed,1
+LINLEW-4-2,LINLEW,-4,4,3,leaf not exposed,0
+LINLEW-4-3,LINLEW,-4,4,1,normal,1
+LINLEW-4-3,LINLEW,-4,4,2,leaf not exposed,1
+LINLEW-4-3,LINLEW,-4,4,3,normal,1
+LINLEW-4-4,LINLEW,-4,4,1,abnormal development,1
+LINLEW-4-4,LINLEW,-4,4,2,normal,1
+LINLEW-4-4,LINLEW,-4,4,3,normal,1
+LINLEW-6-1,LINLEW,-6,6,1,normal,1
+LINLEW-6-1,LINLEW,-6,6,2,leaf not exposed,0
+LINLEW-6-1,LINLEW,-6,6,3,normal,1
+LINLEW-6-2,LINLEW,-6,6,1,normal,1
+LINLEW-6-2,LINLEW,-6,6,2,leaf not exposed,1
+LINLEW-6-2,LINLEW,-6,6,3,leaf not exposed,1
+LINLEW-6-3,LINLEW,-6,6,1,normal,1
+LINLEW-6-3,LINLEW,-6,6,2,leaf not exposed,1
+LINLEW-6-3,LINLEW,-6,6,3,leaf not exposed,1
+LINLEW-6-4,LINLEW,-6,6,1,normal,1
+LINLEW-6-4,LINLEW,-6,6,2,normal,1
+LINLEW-6-4,LINLEW,-6,6,3,normal,1
+LINLEW-8-1,LINLEW,-8,8,1,normal,0
+LINLEW-8-1,LINLEW,-8,8,3,leaf not exposed,0
+LINLEW-8-2,LINLEW,-8,8,1,normal,0
+LINLEW-8-2,LINLEW,-8,8,3,leaf not exposed,0
+LINLEW-8-3,LINLEW,-8,8,1,normal,0
+LINLEW-8-3,LINLEW,-8,8,2,normal,0
+LINLEW-8-3,LINLEW,-8,8,3,normal,0
+LINLEW-8-4,LINLEW,-8,8,1,normal,0
+LINLEW-8-4,LINLEW,-8,8,2,leaf not exposed,0
+LINLEW-8-4,LINLEW,-8,8,3,normal,0
+LOMDIS-2-1,LOMDIS,-2,1,1,leaf not exposed,1
+LOMDIS-2-1,LOMDIS,-2,1,2,leaf not exposed,1
+LOMDIS-2-1,LOMDIS,-2,1,3,leaf not exposed,1
+LOMDIS-2-2,LOMDIS,-2,2,1,normal,1
+LOMDIS-2-2,LOMDIS,-2,2,2,normal,1
+LOMDIS-2-3,LOMDIS,-2,3,1,leaf not exposed,1
+LOMDIS-2-3,LOMDIS,-2,3,3,leaf not exposed,1
+LOMDIS-2-4,LOMDIS,-2,4,3,leaf not exposed,1
+LOMDIS-4-1,LOMDIS,-4,1,1,normal,1
+LOMDIS-4-1,LOMDIS,-4,1,2,normal,1
+LOMDIS-4-1,LOMDIS,-4,1,3,leaf not exposed,1
+LOMDIS-4-2,LOMDIS,-4,2,1,normal,1
+LOMDIS-4-2,LOMDIS,-4,2,2,leaf not exposed,0
+LOMDIS-4-2,LOMDIS,-4,2,3,leaf not exposed,1
+LOMDIS-4-3,LOMDIS,-4,3,1,normal,1
+LOMDIS-4-3,LOMDIS,-4,3,2,leaf not exposed,1
+LOMDIS-4-3,LOMDIS,-4,3,3,leaf not exposed,0
+LOMDIS-4-4,LOMDIS,-4,4,1,leaf not exposed,1
+LOMDIS-4-4,LOMDIS,-4,4,2,normal,1
+LOMDIS-4-4,LOMDIS,-4,4,3,leaf not exposed,1
+LOMDIS-6-1,LOMDIS,-6,1,1,normal,0
+LOMDIS-6-1,LOMDIS,-6,1,2,leaf not exposed,0
+LOMDIS-6-2,LOMDIS,-6,2,2,normal,0
+LOMDIS-6-2,LOMDIS,-6,2,3,normal,1
+LOMDIS-6-3,LOMDIS,-6,3,1,leaf not exposed,0
+LOMDIS-6-3,LOMDIS,-6,3,2,leaf not exposed,1
+LOMDIS-6-3,LOMDIS,-6,3,3,leaf not exposed,0
+LOMDIS-6-4,LOMDIS,-6,4,1,normal,0
+LOMDIS-6-4,LOMDIS,-6,4,2,leaf not exposed,0
+LOMDIS-6-4,LOMDIS,-6,4,3,leaf not exposed,0
+LOMDIS-8-1,LOMDIS,-8,1,1,normal,0
+LOMDIS-8-1,LOMDIS,-8,1,2,leaf not exposed,0
+LOMDIS-8-1,LOMDIS,-8,1,3,leaf not exposed,0
+LOMDIS-8-2,LOMDIS,-8,2,3,leaf not exposed,0
+LOMDIS-8-3,LOMDIS,-8,3,1,leaf not exposed,0
+LOMDIS-8-3,LOMDIS,-8,3,2,normal,0
+LOMDIS-8-3,LOMDIS,-8,3,3,leaf not exposed,1
+LOMDIS-8-4,LOMDIS,-8,4,1,leaf not exposed,0
+LOMDIS-8-4,LOMDIS,-8,4,3,leaf not exposed,0
+LOMMAC-2-1,LOMMAC,-2,1,1,normal,1
+LOMMAC-2-1,LOMMAC,-2,1,2,normal,1
+LOMMAC-2-1,LOMMAC,-2,1,3,normal,1
+LOMMAC-2-2,LOMMAC,-2,2,1,abnormal development,1
+LOMMAC-2-2,LOMMAC,-2,2,2,leaf not exposed,1
+LOMMAC-2-2,LOMMAC,-2,2,3,leaf not exposed,1
+LOMMAC-2-3,LOMMAC,-2,3,1,normal,1
+LOMMAC-2-3,LOMMAC,-2,3,2,leaf not exposed,1
+LOMMAC-2-3,LOMMAC,-2,3,3,leaf not exposed,1
+LOMMAC-2-4,LOMMAC,-2,4,1,normal,1
+LOMMAC-2-4,LOMMAC,-2,4,3,leaf not exposed,1
+LOMMAC-4-1,LOMMAC,-4,1,1,normal,1
+LOMMAC-4-1,LOMMAC,-4,1,2,normal,0
+LOMMAC-4-1,LOMMAC,-4,1,3,normal,1
+LOMMAC-4-2,LOMMAC,-4,2,1,leaf not exposed,1
+LOMMAC-4-2,LOMMAC,-4,2,2,leaf not exposed,1
+LOMMAC-4-2,LOMMAC,-4,2,3,leaf not exposed,1
+LOMMAC-4-3,LOMMAC,-4,3,1,normal,1
+LOMMAC-4-3,LOMMAC,-4,3,2,leaf not exposed,1
+LOMMAC-4-3,LOMMAC,-4,3,3,leaf not exposed,1
+LOMMAC-4-4,LOMMAC,-4,4,1,normal,1
+LOMMAC-4-4,LOMMAC,-4,4,2,normal,1
+LOMMAC-4-4,LOMMAC,-4,4,3,normal,1
+LOMMAC-6-1,LOMMAC,-6,1,1,normal,1
+LOMMAC-6-1,LOMMAC,-6,1,2,leaf not exposed,0
+LOMMAC-6-1,LOMMAC,-6,1,3,normal,0
+LOMMAC-6-2,LOMMAC,-6,2,1,normal,1
+LOMMAC-6-2,LOMMAC,-6,2,2,leaf not exposed,1
+LOMMAC-6-2,LOMMAC,-6,2,3,leaf not exposed,1
+LOMMAC-6-3,LOMMAC,-6,3,1,leaf not exposed,0
+LOMMAC-6-3,LOMMAC,-6,3,2,leaf not exposed,1
+LOMMAC-6-3,LOMMAC,-6,3,3,leaf not exposed,1
+LOMMAC-6-4,LOMMAC,-6,4,1,normal,0
+LOMMAC-6-4,LOMMAC,-6,4,2,leaf not exposed,1
+LOMMAC-6-4,LOMMAC,-6,4,3,leaf not exposed,0
+LOMMAC-8-1,LOMMAC,-8,1,1,normal,0
+LOMMAC-8-1,LOMMAC,-8,1,2,leaf not exposed,0
+LOMMAC-8-1,LOMMAC,-8,1,3,normal,0
+LOMMAC-8-2,LOMMAC,-8,2,1,normal,0
+LOMMAC-8-2,LOMMAC,-8,2,2,leaf not exposed,0
+LOMMAC-8-2,LOMMAC,-8,2,3,leaf not exposed,0
+LOMMAC-8-3,LOMMAC,-8,3,1,leaf not exposed,0
+LOMMAC-8-3,LOMMAC,-8,3,2,leaf not exposed,0
+LOMMAC-8-3,LOMMAC,-8,3,3,normal,0
+LOMMAC-8-4,LOMMAC,-8,4,1,leaf not exposed,0
+LOMMAC-8-4,LOMMAC,-8,4,3,normal,0
+LUPARG-2-1,LUPARG,-2,1,1,normal,1
+LUPARG-2-1,LUPARG,-2,1,2,normal,1
+LUPARG-2-1,LUPARG,-2,1,3,abnormal development,1
+LUPARG-2-2,LUPARG,-2,2,1,normal,1
+LUPARG-2-2,LUPARG,-2,2,2,normal,1
+LUPARG-2-2,LUPARG,-2,2,3,abnormal development,1
+LUPARG-2-3,LUPARG,-2,3,1,abnormal development,1
+LUPARG-2-3,LUPARG,-2,3,2,normal,1
+LUPARG-2-3,LUPARG,-2,3,3,normal,1
+LUPARG-2-4,LUPARG,-2,4,1,normal,1
+LUPARG-2-4,LUPARG,-2,4,2,normal,1
+LUPARG-2-4,LUPARG,-2,4,3,normal,1
+LUPARG-4-1,LUPARG,-4,1,1,normal,1
+LUPARG-4-1,LUPARG,-4,1,2,normal,1
+LUPARG-4-1,LUPARG,-4,1,3,normal,1
+LUPARG-4-2,LUPARG,-4,2,1,abnormal development,1
+LUPARG-4-2,LUPARG,-4,2,2,abnormal development,1
+LUPARG-4-2,LUPARG,-4,2,3,abnormal development,1
+LUPARG-4-3,LUPARG,-4,3,1,normal,1
+LUPARG-4-3,LUPARG,-4,3,2,normal,1
+LUPARG-4-3,LUPARG,-4,3,3,normal,1
+LUPARG-4-4,LUPARG,-4,4,1,normal,1
+LUPARG-4-4,LUPARG,-4,4,2,abnormal development,1
+LUPARG-4-4,LUPARG,-4,4,3,abnormal development,0
+LUPARG-6-1,LUPARG,-6,1,1,normal,0
+LUPARG-6-1,LUPARG,-6,1,2,normal,0
+LUPARG-6-1,LUPARG,-6,1,3,normal,1
+LUPARG-6-2,LUPARG,-6,2,1,abnormal development,1
+LUPARG-6-2,LUPARG,-6,2,2,normal,1
+LUPARG-6-2,LUPARG,-6,2,3,normal,1
+LUPARG-6-3,LUPARG,-6,3,1,normal,1
+LUPARG-6-3,LUPARG,-6,3,2,normal,0
+LUPARG-6-3,LUPARG,-6,3,3,normal,1
+LUPARG-6-4,LUPARG,-6,4,1,normal,1
+LUPARG-6-4,LUPARG,-6,4,2,normal,1
+LUPARG-6-4,LUPARG,-6,4,3,abnormal development,1
+LUPARG-8-1,LUPARG,-8,1,1,abnormal development,0
+LUPARG-8-1,LUPARG,-8,1,2,abnormal development,0
+LUPARG-8-1,LUPARG,-8,1,3,abnormal development,0
+LUPARG-8-2,LUPARG,-8,2,1,normal,0
+LUPARG-8-2,LUPARG,-8,2,2,normal,0
+LUPARG-8-2,LUPARG,-8,2,3,normal,0
+LUPARG-8-3,LUPARG,-8,3,1,abnormal development,0
+LUPARG-8-3,LUPARG,-8,3,2,normal,0
+LUPARG-8-3,LUPARG,-8,3,3,abnormal development,0
+LUPARG-8-4,LUPARG,-8,4,1,normal,0
+LUPARG-8-4,LUPARG,-8,4,2,normal,0
+LUPARG-8-4,LUPARG,-8,4,3,normal,0
+MACCAN-2-1,MACCAN,-2,1,1,normal,1
+MACCAN-2-1,MACCAN,-2,1,2,normal,1
+MACCAN-2-1,MACCAN,-2,1,3,normal,1
+MACCAN-2-2,MACCAN,-2,2,1,normal,1
+MACCAN-2-3,MACCAN,-2,3,1,normal,1
+MACCAN-2-3,MACCAN,-2,3,3,true leaves,1
+MACCAN-2-4,MACCAN,-2,4,1,normal,1
+MACCAN-2-4,MACCAN,-2,4,2,normal,1
+MACCAN-2-4,MACCAN,-2,4,3,leaf not exposed,1
+MACCAN-4-1,MACCAN,-4,1,1,true leaves,1
+MACCAN-4-1,MACCAN,-4,1,2,true leaves,1
+MACCAN-4-1,MACCAN,-4,1,3,true leaves,1
+MACCAN-4-2,MACCAN,-4,2,1,normal,1
+MACCAN-4-2,MACCAN,-4,2,2,normal,1
+MACCAN-4-2,MACCAN,-4,2,3,normal,1
+MACCAN-4-3,MACCAN,-4,3,1,normal,1
+MACCAN-4-3,MACCAN,-4,3,2,leaf not exposed,0
+MACCAN-4-3,MACCAN,-4,3,3,normal,1
+MACCAN-4-4,MACCAN,-4,4,1,abnormal development,1
+MACCAN-6-1,MACCAN,-6,1,1,normal,0
+MACCAN-6-1,MACCAN,-6,1,2,normal,0
+MACCAN-6-1,MACCAN,-6,1,3,normal,0
+MACCAN-6-2,MACCAN,-6,2,1,normal,0
+MACCAN-6-2,MACCAN,-6,2,2,normal,0
+MACCAN-6-2,MACCAN,-6,2,3,normal,0
+MACCAN-6-3,MACCAN,-6,3,1,normal,1
+MACCAN-6-3,MACCAN,-6,3,2,normal,1
+MACCAN-6-3,MACCAN,-6,3,3,true leaves,1
+MACCAN-6-4,MACCAN,-6,4,1,normal,1
+MACCAN-6-4,MACCAN,-6,4,2,normal,1
+MACCAN-8-1,MACCAN,-8,1,1,normal,0
+MACCAN-8-1,MACCAN,-8,1,2,leaf not exposed,0
+MACCAN-8-1,MACCAN,-8,1,3,normal,0
+MACCAN-8-2,MACCAN,-8,2,1,normal,0
+MACCAN-8-2,MACCAN,-8,2,3,normal,0
+MACCAN-8-3,MACCAN,-8,3,1,normal,0
+MACCAN-8-3,MACCAN,-8,3,2,normal,0
+MACCAN-8-3,MACCAN,-8,3,3,normal,0
+MACCAN-8-4,MACCAN,-8,4,1,normal,0
+MACCAN-8-4,MACCAN,-8,4,2,normal,0
+PASSMI-2-1,PASSMI,-2,1,1,normal,1
+PASSMI-2-1,PASSMI,-2,1,2,normal,1
+PASSMI-2-1,PASSMI,-2,1,3,normal,1
+PASSMI-2-2,PASSMI,-2,2,1,normal,1
+PASSMI-2-2,PASSMI,-2,2,2,normal,1
+PASSMI-2-2,PASSMI,-2,2,3,normal,1
+PASSMI-2-3,PASSMI,-2,3,1,normal,1
+PASSMI-2-3,PASSMI,-2,3,2,normal,1
+PASSMI-2-3,PASSMI,-2,3,3,normal,1
+PASSMI-2-4,PASSMI,-2,4,1,normal,1
+PASSMI-2-4,PASSMI,-2,4,2,normal,1
+PASSMI-2-4,PASSMI,-2,4,3,normal,1
+PASSMI-4-1,PASSMI,-4,1,1,normal,1
+PASSMI-4-1,PASSMI,-4,1,2,normal,1
+PASSMI-4-2,PASSMI,-4,2,1,normal,1
+PASSMI-4-2,PASSMI,-4,2,2,normal,1
+PASSMI-4-2,PASSMI,-4,2,3,normal,1
+PASSMI-4-3,PASSMI,-4,3,1,normal,1
+PASSMI-4-3,PASSMI,-4,3,2,normal,0
+PASSMI-4-3,PASSMI,-4,3,3,normal,1
+PASSMI-4-4,PASSMI,-4,4,1,normal,1
+PASSMI-4-4,PASSMI,-4,4,2,normal,1
+PASSMI-4-4,PASSMI,-4,4,3,normal,1
+PASSMI-6-1,PASSMI,-6,1,1,normal,1
+PASSMI-6-1,PASSMI,-6,1,2,normal,1
+PASSMI-6-1,PASSMI,-6,1,3,normal,1
+PASSMI-6-2,PASSMI,-6,2,1,normal,1
+PASSMI-6-2,PASSMI,-6,2,2,normal,1
+PASSMI-6-2,PASSMI,-6,2,3,normal,1
+PASSMI-6-3,PASSMI,-6,3,1,normal,1
+PASSMI-6-3,PASSMI,-6,3,2,normal,1
+PASSMI-6-3,PASSMI,-6,3,3,normal,1
+PASSMI-6-4,PASSMI,-6,4,1,normal,1
+PASSMI-6-4,PASSMI,-6,4,2,normal,1
+PASSMI-6-4,PASSMI,-6,4,3,normal,1
+PASSMI-8-1,PASSMI,-8,1,1,normal,0
+PASSMI-8-1,PASSMI,-8,1,2,normal,0
+PASSMI-8-1,PASSMI,-8,1,3,normal,0
+PASSMI-8-2,PASSMI,-8,2,1,normal,0
+PASSMI-8-2,PASSMI,-8,2,2,normal,0
+PASSMI-8-2,PASSMI,-8,2,3,normal,0
+PASSMI-8-3,PASSMI,-8,3,1,normal,0
+PASSMI-8-3,PASSMI,-8,3,2,normal,0
+PASSMI-8-3,PASSMI,-8,3,3,normal,0
+PASSMI-8-4,PASSMI,-8,4,1,normal,0
+PASSMI-8-4,PASSMI,-8,4,2,normal,0
+PASSMI-8-4,PASSMI,-8,4,3,normal,0
+PENPAL-2-1,PENPAL,-2,1,1,normal,1
+PENPAL-2-1,PENPAL,-2,1,2,leaf not exposed,1
+PENPAL-2-1,PENPAL,-2,1,3,leaf not exposed,1
+PENPAL-2-2,PENPAL,-2,2,1,leaf not exposed,1
+PENPAL-2-2,PENPAL,-2,2,2,normal,1
+PENPAL-2-2,PENPAL,-2,2,3,normal,1
+PENPAL-2-3,PENPAL,-2,3,1,leaf not exposed,1
+PENPAL-2-3,PENPAL,-2,3,2,normal,1
+PENPAL-2-3,PENPAL,-2,3,3,normal,1
+PENPAL-2-4,PENPAL,-2,4,1,normal,1
+PENPAL-2-4,PENPAL,-2,4,2,leaf not exposed,1
+PENPAL-2-4,PENPAL,-2,4,3,normal,1
+PENPAL-4-1,PENPAL,-4,1,1,normal,1
+PENPAL-4-1,PENPAL,-4,1,2,leaf not exposed,1
+PENPAL-4-1,PENPAL,-4,1,3,normal,1
+PENPAL-4-2,PENPAL,-4,2,1,leaf not exposed,1
+PENPAL-4-2,PENPAL,-4,2,2,normal,1
+PENPAL-4-2,PENPAL,-4,2,3,leaf not exposed,1
+PENPAL-4-3,PENPAL,-4,3,1,normal,1
+PENPAL-4-3,PENPAL,-4,3,2,leaf not exposed,0
+PENPAL-4-3,PENPAL,-4,3,3,normal,1
+PENPAL-4-4,PENPAL,-4,4,1,normal,1
+PENPAL-4-4,PENPAL,-4,4,2,normal,1
+PENPAL-4-4,PENPAL,-4,4,3,normal,1
+PENPAL-6-1,PENPAL,-6,1,1,normal,1
+PENPAL-6-1,PENPAL,-6,1,2,normal,1
+PENPAL-6-2,PENPAL,-6,2,1,normal,1
+PENPAL-6-2,PENPAL,-6,2,2,normal,1
+PENPAL-6-2,PENPAL,-6,2,3,normal,1
+PENPAL-6-3,PENPAL,-6,3,1,normal,1
+PENPAL-6-3,PENPAL,-6,3,2,leaf not exposed,0
+PENPAL-6-3,PENPAL,-6,3,3,normal,1
+PENPAL-6-4,PENPAL,-6,4,1,normal,1
+PENPAL-6-4,PENPAL,-6,4,2,normal,1
+PENPAL-6-4,PENPAL,-6,4,3,normal,1
+PENPAL-8-1,PENPAL,-8,1,1,leaf not exposed,0
+PENPAL-8-1,PENPAL,-8,1,2,normal,0
+PENPAL-8-1,PENPAL,-8,1,3,normal,0
+PENPAL-8-2,PENPAL,-8,2,1,normal,0
+PENPAL-8-2,PENPAL,-8,2,2,normal,0
+PENPAL-8-2,PENPAL,-8,2,3,normal,0
+PENPAL-8-3,PENPAL,-8,3,1,normal,0
+PENPAL-8-3,PENPAL,-8,3,2,normal,0
+PENPAL-8-3,PENPAL,-8,3,3,leaf not exposed,0
+PENPAL-8-4,PENPAL,-8,4,1,leaf not exposed,0
+PENPAL-8-4,PENPAL,-8,4,3,leaf not exposed,0
+PHAHAS-2-1,PHAHAS,-2,1,1,leaf not exposed,1
+PHAHAS-2-1,PHAHAS,-2,1,2,normal,1
+PHAHAS-2-1,PHAHAS,-2,1,3,normal,1
+PHAHAS-2-2,PHAHAS,-2,2,1,normal,1
+PHAHAS-2-2,PHAHAS,-2,2,2,normal,1
+PHAHAS-2-2,PHAHAS,-2,2,3,normal,1
+PHAHAS-2-3,PHAHAS,-2,3,1,normal,1
+PHAHAS-2-3,PHAHAS,-2,3,2,normal,1
+PHAHAS-2-3,PHAHAS,-2,3,3,normal,1
+PHAHAS-2-4,PHAHAS,-2,4,1,normal,1
+PHAHAS-2-4,PHAHAS,-2,4,2,normal,1
+PHAHAS-2-4,PHAHAS,-2,4,3,normal,1
+PHAHAS-4-1,PHAHAS,-4,1,1,normal,1
+PHAHAS-4-1,PHAHAS,-4,1,2,leaf not exposed,1
+PHAHAS-4-1,PHAHAS,-4,1,3,normal,1
+PHAHAS-4-2,PHAHAS,-4,2,1,normal,1
+PHAHAS-4-2,PHAHAS,-4,2,2,normal,1
+PHAHAS-4-2,PHAHAS,-4,2,3,normal,1
+PHAHAS-4-3,PHAHAS,-4,3,1,normal,1
+PHAHAS-4-3,PHAHAS,-4,3,2,normal,1
+PHAHAS-4-3,PHAHAS,-4,3,3,normal,1
+PHAHAS-4-4,PHAHAS,-4,4,1,normal,1
+PHAHAS-4-4,PHAHAS,-4,4,2,normal,1
+PHAHAS-4-4,PHAHAS,-4,4,3,normal,1
+PHAHAS-6-1,PHAHAS,-6,1,1,normal,1
+PHAHAS-6-1,PHAHAS,-6,1,2,normal,1
+PHAHAS-6-1,PHAHAS,-6,1,3,normal,1
+PHAHAS-6-2,PHAHAS,-6,2,1,normal,1
+PHAHAS-6-2,PHAHAS,-6,2,2,normal,1
+PHAHAS-6-2,PHAHAS,-6,2,3,normal,1
+PHAHAS-6-3,PHAHAS,-6,3,1,normal,1
+PHAHAS-6-3,PHAHAS,-6,3,2,normal,1
+PHAHAS-6-3,PHAHAS,-6,3,3,leaf not exposed,0
+PHAHAS-6-4,PHAHAS,-6,4,1,normal,1
+PHAHAS-6-4,PHAHAS,-6,4,2,normal,1
+PHAHAS-6-4,PHAHAS,-6,4,3,normal,1
+PHAHAS-8-1,PHAHAS,-8,1,1,normal,0
+PHAHAS-8-1,PHAHAS,-8,1,2,normal,0
+PHAHAS-8-1,PHAHAS,-8,1,3,normal,1
+PHAHAS-8-2,PHAHAS,-8,2,1,normal,0
+PHAHAS-8-2,PHAHAS,-8,2,2,normal,0
+PHAHAS-8-2,PHAHAS,-8,2,3,normal,1
+PHAHAS-8-3,PHAHAS,-8,3,1,leaf not exposed,0
+PHAHAS-8-3,PHAHAS,-8,3,2,normal,1
+PHAHAS-8-3,PHAHAS,-8,3,3,normal,1
+PHAHAS-8-4,PHAHAS,-8,4,1,normal,0
+PHAHAS-8-4,PHAHAS,-8,4,2,normal,1
+PHAHAS-8-4,PHAHAS,-8,4,3,normal,0
+PLEJAM-2-1,PLEJAM,-2,1,1,normal,1
+PLEJAM-2-1,PLEJAM,-2,1,2,normal,1
+PLEJAM-2-1,PLEJAM,-2,1,3,normal,1
+PLEJAM-2-2,PLEJAM,-2,2,1,normal,1
+PLEJAM-2-2,PLEJAM,-2,2,2,normal,1
+PLEJAM-2-2,PLEJAM,-2,2,3,normal,1
+PLEJAM-2-3,PLEJAM,-2,3,1,normal,1
+PLEJAM-2-3,PLEJAM,-2,3,2,normal,1
+PLEJAM-2-3,PLEJAM,-2,3,3,normal,1
+PLEJAM-2-4,PLEJAM,-2,4,1,normal,1
+PLEJAM-2-4,PLEJAM,-2,4,2,normal,1
+PLEJAM-2-4,PLEJAM,-2,4,3,normal,1
+PLEJAM-4-1,PLEJAM,-4,1,1,normal,1
+PLEJAM-4-1,PLEJAM,-4,1,2,normal,1
+PLEJAM-4-1,PLEJAM,-4,1,3,normal,1
+PLEJAM-4-2,PLEJAM,-4,2,1,normal,1
+PLEJAM-4-2,PLEJAM,-4,2,2,normal,1
+PLEJAM-4-2,PLEJAM,-4,2,3,normal,1
+PLEJAM-4-3,PLEJAM,-4,3,1,normal,1
+PLEJAM-4-3,PLEJAM,-4,3,2,normal,1
+PLEJAM-4-3,PLEJAM,-4,3,3,normal,1
+PLEJAM-4-4,PLEJAM,-4,4,1,normal,1
+PLEJAM-4-4,PLEJAM,-4,4,2,normal,1
+PLEJAM-4-4,PLEJAM,-4,4,3,normal,1
+PLEJAM-6-1,PLEJAM,-6,1,1,normal,0
+PLEJAM-6-1,PLEJAM,-6,1,2,normal,0
+PLEJAM-6-1,PLEJAM,-6,1,3,normal,0
+PLEJAM-6-2,PLEJAM,-6,2,1,normal,0
+PLEJAM-6-2,PLEJAM,-6,2,2,normal,0
+PLEJAM-6-2,PLEJAM,-6,2,3,normal,0
+PLEJAM-6-3,PLEJAM,-6,3,1,normal,0
+PLEJAM-6-3,PLEJAM,-6,3,2,normal,0
+PLEJAM-6-3,PLEJAM,-6,3,3,normal,0
+PLEJAM-6-4,PLEJAM,-6,4,1,normal,0
+PLEJAM-6-4,PLEJAM,-6,4,2,normal,0
+PLEJAM-6-4,PLEJAM,-6,4,3,normal,0
+PLEJAM-8-1,PLEJAM,-8,1,1,normal,0
+PLEJAM-8-1,PLEJAM,-8,1,2,normal,0
+PLEJAM-8-1,PLEJAM,-8,1,3,normal,0
+PLEJAM-8-2,PLEJAM,-8,2,1,normal,0
+PLEJAM-8-2,PLEJAM,-8,2,3,normal,0
+PLEJAM-8-3,PLEJAM,-8,3,1,normal,0
+PLEJAM-8-3,PLEJAM,-8,3,2,normal,0
+PLEJAM-8-4,PLEJAM,-8,4,1,normal,0
+PLEJAM-8-4,PLEJAM,-8,4,2,normal,0
+PLEJAM-8-4,PLEJAM,-8,4,3,normal,0
+POASEC-2-1,POASEC,-2,1,1,normal,1
+POASEC-2-1,POASEC,-2,1,2,normal,1
+POASEC-2-2,POASEC,-2,2,1,normal,1
+POASEC-2-2,POASEC,-2,2,2,normal,1
+POASEC-2-2,POASEC,-2,2,3,normal,1
+POASEC-2-3,POASEC,-2,3,1,normal,1
+POASEC-2-3,POASEC,-2,3,2,normal,1
+POASEC-2-3,POASEC,-2,3,3,normal,1
+POASEC-2-4,POASEC,-2,4,1,normal,1
+POASEC-2-4,POASEC,-2,4,2,normal,1
+POASEC-2-4,POASEC,-2,4,3,normal,1
+POASEC-4-1,POASEC,-4,1,1,normal,1
+POASEC-4-1,POASEC,-4,1,2,normal,1
+POASEC-4-1,POASEC,-4,1,3,normal,1
+POASEC-4-2,POASEC,-4,2,1,normal,1
+POASEC-4-2,POASEC,-4,2,2,normal,1
+POASEC-4-2,POASEC,-4,2,3,normal,1
+POASEC-4-3,POASEC,-4,3,1,normal,1
+POASEC-4-3,POASEC,-4,3,2,normal,1
+POASEC-4-3,POASEC,-4,3,3,normal,1
+POASEC-4-4,POASEC,-4,4,1,normal,1
+POASEC-4-4,POASEC,-4,4,2,normal,1
+POASEC-4-4,POASEC,-4,4,3,normal,1
+POASEC-6-1,POASEC,-6,1,1,normal,1
+POASEC-6-1,POASEC,-6,1,2,normal,1
+POASEC-6-1,POASEC,-6,1,3,normal,1
+POASEC-6-2,POASEC,-6,2,1,normal,1
+POASEC-6-2,POASEC,-6,2,2,normal,1
+POASEC-6-2,POASEC,-6,2,3,normal,1
+POASEC-6-3,POASEC,-6,3,1,normal,1
+POASEC-6-3,POASEC,-6,3,2,normal,1
+POASEC-6-3,POASEC,-6,3,3,normal,1
+POASEC-6-4,POASEC,-6,4,1,normal,1
+POASEC-6-4,POASEC,-6,4,2,normal,1
+POASEC-6-4,POASEC,-6,4,3,normal,1
+POASEC-8-1,POASEC,-8,1,1,normal,0
+POASEC-8-1,POASEC,-8,1,2,normal,0
+POASEC-8-1,POASEC,-8,1,3,normal,0
+POASEC-8-2,POASEC,-8,2,1,normal,0
+POASEC-8-2,POASEC,-8,2,2,normal,0
+POASEC-8-2,POASEC,-8,2,3,normal,0
+POASEC-8-3,POASEC,-8,3,1,normal,0
+POASEC-8-3,POASEC,-8,3,2,normal,0
+POASEC-8-3,POASEC,-8,3,3,normal,0
+POASEC-8-4,POASEC,-8,4,2,normal,0
+POASEC-8-4,POASEC,-8,4,3,normal,1
+PSESPI-2-1,PSESPI,-2,2,1,normal,1
+PSESPI-2-1,PSESPI,-2,2,2,normal,1
+PSESPI-2-1,PSESPI,-2,2,3,normal,1
+PSESPI-2-2,PSESPI,-2,2,1,normal,1
+PSESPI-2-2,PSESPI,-2,2,2,normal,1
+PSESPI-2-2,PSESPI,-2,2,3,normal,1
+PSESPI-2-3,PSESPI,-2,2,1,normal,1
+PSESPI-2-3,PSESPI,-2,2,2,normal,1
+PSESPI-2-3,PSESPI,-2,2,3,normal,1
+PSESPI-2-4,PSESPI,-2,2,1,normal,1
+PSESPI-2-4,PSESPI,-2,2,2,normal,1
+PSESPI-2-4,PSESPI,-2,2,3,normal,1
+PSESPI-4-1,PSESPI,-4,4,1,normal,1
+PSESPI-4-1,PSESPI,-4,4,2,normal,1
+PSESPI-4-1,PSESPI,-4,4,3,normal,1
+PSESPI-4-2,PSESPI,-4,4,1,normal,1
+PSESPI-4-2,PSESPI,-4,4,2,normal,1
+PSESPI-4-2,PSESPI,-4,4,3,normal,1
+PSESPI-4-3,PSESPI,-4,4,1,normal,1
+PSESPI-4-3,PSESPI,-4,4,2,normal,1
+PSESPI-4-3,PSESPI,-4,4,3,normal,1
+PSESPI-4-4,PSESPI,-4,4,1,normal,1
+PSESPI-4-4,PSESPI,-4,4,2,normal,1
+PSESPI-4-4,PSESPI,-4,4,3,normal,1
+PSESPI-6-1,PSESPI,-6,6,1,normal,1
+PSESPI-6-1,PSESPI,-6,6,2,normal,1
+PSESPI-6-1,PSESPI,-6,6,3,normal,1
+PSESPI-6-2,PSESPI,-6,6,1,normal,1
+PSESPI-6-2,PSESPI,-6,6,2,normal,1
+PSESPI-6-2,PSESPI,-6,6,3,normal,1
+PSESPI-6-3,PSESPI,-6,6,1,normal,1
+PSESPI-6-3,PSESPI,-6,6,2,normal,1
+PSESPI-6-3,PSESPI,-6,6,3,normal,0
+PSESPI-6-4,PSESPI,-6,6,1,normal,1
+PSESPI-6-4,PSESPI,-6,6,2,normal,1
+PSESPI-6-4,PSESPI,-6,6,3,normal,1
+PSESPI-8-1,PSESPI,-8,8,1,normal,0
+PSESPI-8-1,PSESPI,-8,8,2,normal,0
+PSESPI-8-1,PSESPI,-8,8,3,normal,0
+PSESPI-8-2,PSESPI,-8,8,1,normal,0
+PSESPI-8-2,PSESPI,-8,8,2,small size,0
+PSESPI-8-2,PSESPI,-8,8,3,normal,0
+PSESPI-8-3,PSESPI,-8,8,1,normal,0
+PSESPI-8-3,PSESPI,-8,8,2,normal,0
+PSESPI-8-3,PSESPI,-8,8,3,normal,0
+PSESPI-8-4,PSESPI,-8,8,1,normal,0
+PSESPI-8-4,PSESPI,-8,8,2,normal,0
+PSESPI-8-4,PSESPI,-8,8,3,normal,0
+SENCOV-2-1,SENCOV,-2,1,1,normal,1
+SENCOV-2-1,SENCOV,-2,1,2,normal,1
+SENCOV-2-1,SENCOV,-2,1,3,normal,1
+SENCOV-2-2,SENCOV,-2,2,1,normal,1
+SENCOV-2-2,SENCOV,-2,2,2,normal,1
+SENCOV-2-2,SENCOV,-2,2,3,normal,1
+SENCOV-2-3,SENCOV,-2,3,1,normal,1
+SENCOV-2-3,SENCOV,-2,3,2,normal,1
+SENCOV-2-3,SENCOV,-2,3,3,normal,1
+SENCOV-2-4,SENCOV,-2,4,1,normal,1
+SENCOV-2-4,SENCOV,-2,4,2,normal,1
+SENCOV-2-4,SENCOV,-2,4,3,normal,1
+SENCOV-4-1,SENCOV,-4,1,1,normal,1
+SENCOV-4-1,SENCOV,-4,1,2,normal,1
+SENCOV-4-1,SENCOV,-4,1,3,normal,1
+SENCOV-4-2,SENCOV,-4,2,1,normal,1
+SENCOV-4-2,SENCOV,-4,2,2,abnormal development,0
+SENCOV-4-2,SENCOV,-4,2,3,normal,1
+SENCOV-4-3,SENCOV,-4,3,1,normal,1
+SENCOV-4-3,SENCOV,-4,3,3,normal,1
+SENCOV-4-4,SENCOV,-4,4,1,normal,1
+SENCOV-4-4,SENCOV,-4,4,2,leaf not exposed,0
+SENCOV-4-4,SENCOV,-4,4,3,normal,1
+SENCOV-6-1,SENCOV,-6,1,1,normal,0
+SENCOV-6-1,SENCOV,-6,1,2,normal,0
+SENCOV-6-1,SENCOV,-6,1,3,normal,0
+SENCOV-6-2,SENCOV,-6,2,1,normal,0
+SENCOV-6-2,SENCOV,-6,2,2,normal,0
+SENCOV-6-2,SENCOV,-6,2,3,normal,0
+SENCOV-6-3,SENCOV,-6,3,1,normal,0
+SENCOV-6-3,SENCOV,-6,3,2,normal,0
+SENCOV-6-3,SENCOV,-6,3,3,normal,0
+SENCOV-6-4,SENCOV,-6,4,1,normal,0
+SENCOV-6-4,SENCOV,-6,4,2,normal,0
+SENCOV-6-4,SENCOV,-6,4,3,normal,0
+SENCOV-8-1,SENCOV,-8,1,1,normal,0
+SENCOV-8-1,SENCOV,-8,1,2,normal,0
+SENCOV-8-1,SENCOV,-8,1,3,leaf not exposed,0
+SENCOV-8-2,SENCOV,-8,2,1,normal,0
+SENCOV-8-2,SENCOV,-8,2,2,normal,0
+SENCOV-8-2,SENCOV,-8,2,3,leaf not exposed,0
+SENCOV-8-3,SENCOV,-8,3,1,normal,0
+SENCOV-8-3,SENCOV,-8,3,2,normal,0
+SENCOV-8-3,SENCOV,-8,3,3,normal,0
+SENCOV-8-4,SENCOV,-8,4,1,normal,0
+SENCOV-8-4,SENCOV,-8,4,2,normal,0
+SENCOV-8-4,SENCOV,-8,4,3,normal,0
+SPHGRO-2-1,SPHGRO,-2,2,1,abnormal development,1
+SPHGRO-2-1,SPHGRO,-2,2,2,normal,1
+SPHGRO-2-1,SPHGRO,-2,2,3,normal,1
+SPHGRO-2-2,SPHGRO,-2,2,1,normal,1
+SPHGRO-2-2,SPHGRO,-2,2,2,normal,1
+SPHGRO-2-2,SPHGRO,-2,2,3,leaf not exposed,1
+SPHGRO-2-3,SPHGRO,-2,2,1,normal,1
+SPHGRO-2-3,SPHGRO,-2,2,2,normal,1
+SPHGRO-2-3,SPHGRO,-2,2,3,normal,1
+SPHGRO-2-4,SPHGRO,-2,2,1,normal,1
+SPHGRO-2-4,SPHGRO,-2,2,2,true leaves,1
+SPHGRO-2-4,SPHGRO,-2,2,3,normal,1
+SPHGRO-4-1,SPHGRO,-4,4,1,normal,1
+SPHGRO-4-1,SPHGRO,-4,4,2,normal,1
+SPHGRO-4-1,SPHGRO,-4,4,3,normal,1
+SPHGRO-4-2,SPHGRO,-4,4,1,abnormal development,1
+SPHGRO-4-2,SPHGRO,-4,4,2,abnormal development,1
+SPHGRO-4-2,SPHGRO,-4,4,3,normal,1
+SPHGRO-4-3,SPHGRO,-4,4,1,normal,1
+SPHGRO-4-3,SPHGRO,-4,4,2,normal,1
+SPHGRO-4-3,SPHGRO,-4,4,3,normal,1
+SPHGRO-4-4,SPHGRO,-4,4,1,normal,1
+SPHGRO-4-4,SPHGRO,-4,4,2,normal,1
+SPHGRO-4-4,SPHGRO,-4,4,3,normal,1
+SPHGRO-6-1,SPHGRO,-6,6,1,normal,1
+SPHGRO-6-1,SPHGRO,-6,6,2,true leaves,0
+SPHGRO-6-1,SPHGRO,-6,6,3,normal,1
+SPHGRO-6-2,SPHGRO,-6,6,1,abnormal development,1
+SPHGRO-6-2,SPHGRO,-6,6,2,normal,1
+SPHGRO-6-2,SPHGRO,-6,6,3,normal,1
+SPHGRO-6-3,SPHGRO,-6,6,1,normal,1
+SPHGRO-6-3,SPHGRO,-6,6,2,normal,1
+SPHGRO-6-3,SPHGRO,-6,6,3,normal,1
+SPHGRO-6-4,SPHGRO,-6,6,1,normal,1
+SPHGRO-6-4,SPHGRO,-6,6,2,normal,1
+SPHGRO-6-4,SPHGRO,-6,6,3,normal,1
+SPHGRO-8-1,SPHGRO,-8,8,1,normal,0
+SPHGRO-8-1,SPHGRO,-8,8,2,normal,0
+SPHGRO-8-1,SPHGRO,-8,8,3,normal,0
+SPHGRO-8-2,SPHGRO,-8,8,1,normal,0
+SPHGRO-8-2,SPHGRO,-8,8,2,normal,0
+SPHGRO-8-2,SPHGRO,-8,8,3,normal,0
+SPHGRO-8-3,SPHGRO,-8,8,1,abnormal development,0
+SPHGRO-8-3,SPHGRO,-8,8,2,normal,0
+SPHGRO-8-3,SPHGRO,-8,8,3,normal,0
+SPHGRO-8-4,SPHGRO,-8,8,1,normal,0
+SPHGRO-8-4,SPHGRO,-8,8,2,normal,0
+SPHGRO-8-4,SPHGRO,-8,8,3,normal,0
+SPHMUN-2-1,SPHMUN,-2,1,1,normal,1
+SPHMUN-2-1,SPHMUN,-2,1,2,normal,1
+SPHMUN-2-1,SPHMUN,-2,1,3,normal,1
+SPHMUN-2-2,SPHMUN,-2,2,1,normal,1
+SPHMUN-2-2,SPHMUN,-2,2,2,normal,1
+SPHMUN-2-2,SPHMUN,-2,2,3,small size,1
+SPHMUN-2-3,SPHMUN,-2,3,1,normal,1
+SPHMUN-2-3,SPHMUN,-2,3,2,normal,1
+SPHMUN-2-3,SPHMUN,-2,3,3,normal,1
+SPHMUN-2-4,SPHMUN,-2,4,1,abnormal development,1
+SPHMUN-2-4,SPHMUN,-2,4,2,normal,1
+SPHMUN-2-4,SPHMUN,-2,4,3,normal,1
+SPHMUN-4-1,SPHMUN,-4,1,1,normal,1
+SPHMUN-4-1,SPHMUN,-4,1,2,normal,1
+SPHMUN-4-1,SPHMUN,-4,1,3,normal,1
+SPHMUN-4-2,SPHMUN,-4,2,1,normal,1
+SPHMUN-4-2,SPHMUN,-4,2,2,normal,1
+SPHMUN-4-2,SPHMUN,-4,2,3,normal,1
+SPHMUN-4-3,SPHMUN,-4,3,2,normal,1
+SPHMUN-4-3,SPHMUN,-4,3,3,normal,1
+SPHMUN-4-4,SPHMUN,-4,4,1,abnormal development,1
+SPHMUN-4-4,SPHMUN,-4,4,2,normal,1
+SPHMUN-4-4,SPHMUN,-4,4,3,abnormal development,1
+SPHMUN-6-1,SPHMUN,-6,1,1,normal,1
+SPHMUN-6-1,SPHMUN,-6,1,2,normal,0
+SPHMUN-6-1,SPHMUN,-6,1,3,normal,0
+SPHMUN-6-2,SPHMUN,-6,2,1,normal,0
+SPHMUN-6-2,SPHMUN,-6,2,2,normal,0
+SPHMUN-6-2,SPHMUN,-6,2,3,normal,0
+SPHMUN-6-3,SPHMUN,-6,3,1,normal,1
+SPHMUN-6-3,SPHMUN,-6,3,2,normal,1
+SPHMUN-6-3,SPHMUN,-6,3,3,normal,1
+SPHMUN-6-4,SPHMUN,-6,4,1,normal,1
+SPHMUN-6-4,SPHMUN,-6,4,2,normal,1
+SPHMUN-6-4,SPHMUN,-6,4,3,normal,1
+SPHMUN-8-1,SPHMUN,-8,1,1,normal,0
+SPHMUN-8-1,SPHMUN,-8,1,2,normal,0
+SPHMUN-8-1,SPHMUN,-8,1,3,normal,0
+SPHMUN-8-2,SPHMUN,-8,2,1,normal,0
+SPHMUN-8-2,SPHMUN,-8,2,2,normal,0
+SPHMUN-8-2,SPHMUN,-8,2,3,abnormal development,0
+SPHMUN-8-3,SPHMUN,-8,3,1,normal,0
+SPHMUN-8-3,SPHMUN,-8,3,2,normal,0
+SPHMUN-8-3,SPHMUN,-8,3,3,normal,0
+SPHMUN-8-4,SPHMUN,-8,4,1,normal,0
+SPHMUN-8-4,SPHMUN,-8,4,2,normal,0
+SPHMUN-8-4,SPHMUN,-8,4,3,normal,0
+SPOAIR-2-1,SPOAIR,-2,1,1,normal,1
+SPOAIR-2-1,SPOAIR,-2,1,2,normal,1
+SPOAIR-2-1,SPOAIR,-2,1,3,normal,1
+SPOAIR-2-2,SPOAIR,-2,2,1,normal,1
+SPOAIR-2-2,SPOAIR,-2,2,2,normal,1
+SPOAIR-2-2,SPOAIR,-2,2,3,normal,1
+SPOAIR-2-3,SPOAIR,-2,3,1,normal,1
+SPOAIR-2-3,SPOAIR,-2,3,2,normal,1
+SPOAIR-2-3,SPOAIR,-2,3,3,normal,1
+SPOAIR-2-4,SPOAIR,-2,4,1,normal,1
+SPOAIR-2-4,SPOAIR,-2,4,2,normal,1
+SPOAIR-2-4,SPOAIR,-2,4,3,normal,1
+SPOAIR-4-1,SPOAIR,-4,1,1,normal,1
+SPOAIR-4-1,SPOAIR,-4,1,2,normal,1
+SPOAIR-4-1,SPOAIR,-4,1,3,normal,1
+SPOAIR-4-2,SPOAIR,-4,2,1,normal,1
+SPOAIR-4-2,SPOAIR,-4,2,2,normal,1
+SPOAIR-4-2,SPOAIR,-4,2,3,normal,1
+SPOAIR-4-3,SPOAIR,-4,3,1,normal,1
+SPOAIR-4-3,SPOAIR,-4,3,2,normal,1
+SPOAIR-4-3,SPOAIR,-4,3,3,normal,1
+SPOAIR-4-4,SPOAIR,-4,4,1,normal,1
+SPOAIR-4-4,SPOAIR,-4,4,2,normal,1
+SPOAIR-4-4,SPOAIR,-4,4,3,normal,1
+SPOAIR-6-1,SPOAIR,-6,1,1,normal,0
+SPOAIR-6-1,SPOAIR,-6,1,2,normal,0
+SPOAIR-6-1,SPOAIR,-6,1,3,normal,0
+SPOAIR-6-2,SPOAIR,-6,2,1,normal,0
+SPOAIR-6-2,SPOAIR,-6,2,2,normal,0
+SPOAIR-6-2,SPOAIR,-6,2,3,normal,0
+SPOAIR-6-3,SPOAIR,-6,3,1,normal,0
+SPOAIR-6-3,SPOAIR,-6,3,2,normal,0
+SPOAIR-6-3,SPOAIR,-6,3,3,normal,0
+SPOAIR-6-4,SPOAIR,-6,4,1,normal,0
+SPOAIR-6-4,SPOAIR,-6,4,2,normal,0
+SPOAIR-6-4,SPOAIR,-6,4,3,normal,0
+SPOAIR-8-1,SPOAIR,-8,1,1,normal,0
+SPOAIR-8-1,SPOAIR,-8,1,3,normal,0
+SPOAIR-8-2,SPOAIR,-8,2,1,normal,0
+SPOAIR-8-2,SPOAIR,-8,2,2,normal,0
+SPOAIR-8-2,SPOAIR,-8,2,3,normal,0
+SPOAIR-8-3,SPOAIR,-8,3,1,normal,0
+SPOAIR-8-3,SPOAIR,-8,3,2,normal,0
+SPOAIR-8-3,SPOAIR,-8,3,3,normal,0
+SPOAIR-8-4,SPOAIR,-8,4,1,normal,0
+SPOAIR-8-4,SPOAIR,-8,4,2,normal,0
+SPOAIR-8-4,SPOAIR,-8,4,3,normal,0
+SPOCRY-2-2,SPOCRY,-2,2,2,normal,0
+SPOCRY-2-3,SPOCRY,-2,3,1,normal,0
+SPOCRY-2-3,SPOCRY,-2,3,3,normal,1
+SPOCRY-2-4,SPOCRY,-2,4,1,normal,0
+SPOCRY-4-1,SPOCRY,-4,1,2,normal,1
+SPOCRY-4-1,SPOCRY,-4,1,3,normal,1
+SPOCRY-4-3,SPOCRY,-4,3,1,abnormal development,1
+SPOCRY-4-3,SPOCRY,-4,3,3,normal,1
+SPOCRY-4-4,SPOCRY,-4,4,1,normal,1
+SPOCRY-4-4,SPOCRY,-4,4,2,abnormal development,0
+SPOCRY-4-4,SPOCRY,-4,4,3,normal,1
+SPOCRY-6-2,SPOCRY,-6,2,1,normal,0
+SPOCRY-6-2,SPOCRY,-6,2,3,normal,0
+SPOCRY-6-3,SPOCRY,-6,3,1,normal,0
+SPOCRY-6-3,SPOCRY,-6,3,2,normal,0
+SPOCRY-6-4,SPOCRY,-6,4,2,normal,1
+SPOCRY-6-4,SPOCRY,-6,4,3,abnormal development,1
+SPOCRY-8-3,SPOCRY,-8,3,1,normal,0
+SPOCRY-8-4,SPOCRY,-8,4,3,normal,1
