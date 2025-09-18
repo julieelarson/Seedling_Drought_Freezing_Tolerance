@@ -7,6 +7,7 @@ The respostiory contains R scripts that sepearately generate several species-lev
 
 *Source of response variables:* 
 1) Lethal freezing temperatures: Generated in freezing_tolerance.R
+
    -Input: Freeze_Temps.csv
    -Input: Freezing_Mortality.csv
    -Output: freeze_metric.csv
