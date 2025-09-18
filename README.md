@@ -12,11 +12,10 @@ The respostiory contains R scripts that sepearately generate several species-lev
 
    -Input: Freezing_Mortality.csv
 
-    -Output: freeze_metric.csv
+   -Output: freeze_metric.csv
    
 2) Drought tolerance: Generated in drought.tolerance.R
-
-   -Input: Drought_Mortality.csv
+    -Input: Drought_Mortality.csv
 
    -Input:Drought_Soil_Moisture_At_Death.csv
 
