@@ -53,40 +53,15 @@ library(patchwork)
 library(rdacca.hp)
 library(ggvenn)
 library(ggrepel)
-
-#' **ADD MORE PACKAGES AS NEEDED**
-
-# figures & aesthetics
-library(ggExtra)
-
-library(ggtext)
-library(RColorBrewer)
-library(corrplot)
-library(scico)
-
-library(ggcorrplot)
-library(ggfortify)
-
-library(ggtree)
-library(ggeffects)
-# analyses & data
-library(Hmisc)
-library(lme4)
-library(performance)
-library(lmerTest)
-
-library(missMDA)
-library(factoextra)
-library(nFactors)
-library(V.PhyloMaker2)  # Note -- must be installed via devtools
-library(phytools)
-library(caper)
 library(scales)
 library(car)
 library(PVR)
 library(DescTools)
 library(here)
 library(hier.part)
+library(rdryad)
+
+
 
 #' Options 
 #' 
