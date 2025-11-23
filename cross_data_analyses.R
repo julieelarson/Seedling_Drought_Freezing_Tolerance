@@ -52,7 +52,7 @@ library(vegan)
 library(patchwork)
 library(rdacca.hp)
 library(ggvenn)
-
+library(ggrepel)
 
 #' **ADD MORE PACKAGES AS NEEDED**
 
@@ -66,7 +66,7 @@ library(scico)
 
 library(ggcorrplot)
 library(ggfortify)
-library(ggrepel)
+
 library(ggtree)
 library(ggeffects)
 # analyses & data
@@ -571,24 +571,47 @@ drought_freeze
 
 
 
-#'  
+#'
+#' *Linear models, hierarchical and variance partitioning*
+#' 
+#' Constructing trait-only and full models to predict drought tolerance and freezing tolerance
+#' 
+#' 
+
+
+#' *Scale explanatory variables*
+#' 
+#' Prior to analysis, put trait, phylogenetic and climatic variables on a similar scale
+#' 
+species_dat_full$MAT05_s <- scale(species_dat_full$MAT05)
+species_dat_full$MAP05_s <- scale(species_dat_full$MAP05)
+species_dat_full$phylo_pcoa1_s <- scale(species_dat_full$phylo_pcoa1)
+species_dat_full$phylo_pcoa2_s <- scale(species_dat_full$phylo_pcoa2)
+species_dat_full$PC1_s <- scale(species_dat_full$PC1)
+species_dat_full$PC2_s <- scale(species_dat_full$PC2)
+species_dat_full$PC3_s <- scale(species_dat_full$PC3)
+
+
+  
 #'  
 #'  **Drought ~ Traits**
 #'  
-#'  How much variation in drought tolerance is explained by traights?
+#'  How much variation in drought tolerance is explained by traits?
+#'  
+#'  
 
 
 #' *Traits linear model*
 #' 
 #' 
-d_mod_pc <- lm( days_to_dead_mean ~ PC1 + PC2 + PC3, data=species_dat_full)
+d_mod_pc <- lm( days_to_dead_mean ~ PC1_s + PC2_s + PC3_s, data=species_dat_full)
 summary(d_mod_pc)
 
 
 #' *Traits hierarchical partitioning*
 #' 
 #' 
-traits <- species_dat_full %>% select(PC1:PC3)  # Save trait dataframe
+traits <- species_dat_full %>% select(PC1_s, PC2_s, PC3_s)  # Save trait dataframe
 drought <-  species_dat_full$days_to_dead_mean
 #' Set model
 dt_rda <- rda(drought~.,traits)  # Same model as linear model above
@@ -605,18 +628,21 @@ dt_hp
 #'  How much additional variation do climate and phylogenetic variables explain?
 #'  
 
+
 #'  *Linear model*
 #'   
-d_mod_all <- lm( days_to_dead_mean ~ PC1 + PC2 + PC3 + MAT05 + MAP05 + phylo_pcoa1 + phylo_pcoa2, data=species_dat_full)
+d_mod_all <- lm( days_to_dead_mean ~ PC1_s + PC2_s + PC3_s + MAT05_s + MAP05_s + phylo_pcoa1_s + phylo_pcoa2_s, data=species_dat_full)
 summary(d_mod_all)
+
 #' 
 #' *Hierarchical partitioning*
 #' 
 #' Remove missing data (row 7 - Asclepias tuberosa, ASCTUB) from analysis dataframe
 species_dat_full_complete <- species_dat_full[-c(7), ] 
+drought_complete <-  species_dat_full_complete$days_to_dead_mean
 
 #' Capture explanatory and response variables
-all_variables <- species_dat_full_complete %>% select(PC1,PC2,PC3,MAT05,MAP05, phylo_pcoa1, phylo_pcoa2)
+all_variables <- species_dat_full_complete %>% select(PC1_s,PC2_s,PC3_s,MAT05_s,MAP05_s, phylo_pcoa1_s, phylo_pcoa2_s)
 drought <-  species_dat_full_complete$days_to_dead_mean
 
 dall_rda <- rda(drought~.,all_variables)  # Same as linear model above
@@ -631,12 +657,13 @@ dall_hp
 #' **Hierarchical partitioning by category**
 #' 
 #' 
-traits_pc <- species_dat_full_complete %>% select(PC1, PC2, PC3)
-climate <- species_dat_full_complete %>% select(MAT05, MAP05)
-phylo <- species_dat_full_complete %>% select(phylo_pcoa1, phylo_pcoa2)
+traits_pc <- species_dat_full_complete %>% select(PC1_s, PC2_s, PC3_s)
+climate <- species_dat_full_complete %>% select(MAT05_s, MAP05_s)
+phylo <- species_dat_full_complete %>% select(phylo_pcoa1_s, phylo_pcoa2_s)
 
-dall_hp_group <- rdacca.hp(drought,list(traits_pc,climate,phylo),method="RDA", type="adjR2",var.part=T)
+dall_hp_group <- rdacca.hp(drought_complete,list(traits_pc,climate,phylo),method="RDA", type="adjR2",var.part=T)
 dall_hp_group
+
 #' 
 #' 
 #' *Figure 4A*
@@ -675,7 +702,7 @@ drought_venn
 
 #' *Traits linear model*
 #'
-f_mod_pc <- lm(  LT50 ~ PC1 + PC2 + PC3, data=species_dat_full)
+f_mod_pc <- lm(  LT50 ~ PC1_s + PC2_s + PC3_s, data=species_dat_full)
 summary(f_mod_pc)
 
 
@@ -687,7 +714,7 @@ species_dat_full_freeze <- species_dat_full %>% filter(species != "CHADOU") %>%
                                                 filter(species != "SPOCRY")
 traits_f <- species_dat_full %>% filter(species != "CHADOU") %>% 
                                 filter(species != "SPOCRY") %>% 
-                                select(PC1:PC3)  # Save trait dataframe
+                                select(PC1_s, PC2_s, PC3_s)  # Save trait dataframe
 freezing <-  species_dat_full %>% filter(species != "CHADOU") %>% 
                                  filter(species != "SPOCRY") %>% 
                                  select(LT50)
@@ -711,7 +738,7 @@ ft_hp
 #'   *Linear model*
 #'   
 species_dat_full_freeze <- species_dat_full %>% na.exclude()
-f_mod_all <- lm(LT50 ~ PC1 + PC2 + PC3 + MAT05 + MAP05 + phylo_pcoa1 + phylo_pcoa2, data=species_dat_full_freeze)
+f_mod_all <- lm(LT50 ~ PC1_s + PC2_s + PC3_s + MAT05_s + MAP05_s + phylo_pcoa1_s + phylo_pcoa2_s, data=species_dat_full_freeze)
 summary(f_mod_all)
 
 
@@ -720,10 +747,11 @@ summary(f_mod_all)
 #' 
 #' Remove missing data (row 7 - Asclepias tuberosa, ASCTUB) from analysis dataframe
 species_dat_freeze <- species_dat_full_freeze[-c(7), ] 
+
 #' 
 #' Model
-all_variables_f <- species_dat_freeze %>% select(PC1,PC2,PC3, MAT05,MAP05, 
-                                                           phylo_pcoa1, phylo_pcoa2)
+all_variables_f <- species_dat_freeze %>% select(PC1_s,PC2_s,PC3_s, MAT05_s,MAP05_s, 
+                                                           phylo_pcoa1_s, phylo_pcoa2_s)
 freezing_f <- species_dat_freeze %>% select(LT50)
 fall_rda <- rda(freezing_f~.,all_variables_f)  # Same as linear model above
 RsquareAdj(fall_rda)               # R2 values
@@ -737,11 +765,12 @@ fall_hp
 #' 
 #' *Hierarchical partitioning by category*
 #' 
-traits_pc <- species_dat_full_freeze %>% na.exclude %>% select(PC1, PC2, PC3)
-climate <- species_dat_full_freeze %>% na.exclude %>% select(MAT05,MAP05)
-phylo <- species_dat_full_freeze %>% na.exclude  %>% select(phylo_pcoa1, phylo_pcoa2)
+traits_pc <- species_dat_full_freeze %>% na.exclude %>% select(PC1_s, PC2_s, PC3_s)
+climate <- species_dat_full_freeze %>% na.exclude %>% select(MAT05_s,MAP05_s)
+phylo <- species_dat_full_freeze %>% na.exclude  %>% select(phylo_pcoa1_s, phylo_pcoa2_s)
 fall_hp_group <- rdacca.hp(freezing_f,list(traits_pc,climate,phylo),method="RDA", type="adjR2",var.part=T)
 fall_hp_group
+
 #' 
 #' 
 #' *Figure 4B in the MS*
