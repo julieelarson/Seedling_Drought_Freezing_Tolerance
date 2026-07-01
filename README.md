@@ -30,9 +30,9 @@ The respostiory contains R scripts that sepearately generate several species-lev
 2) Drought tolerance: Generated in drought.tolerance.R
    -Input: Drought_Mortality.csv
 
-   -Input:Drought_Soil_Moisture_At_Death.csv
+   -Input: Drought_Soil_Moisture_At_Death.csv
 
-   -Input:Drought_WaterPots.csv
+   -Input: Drought_WaterPots.csv
 
    -Output: drought_metrics.csv
 
