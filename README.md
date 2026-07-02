@@ -1,5 +1,6 @@
 # Seedling_Drought_Freezing_Tolerance
 This repository contains code and data to conduct analyses and create figures included  in the following manuscript: 
+
 Functional traits can explain coordinated seedling responses to drought and freezing stress.
 
 Author Names:
