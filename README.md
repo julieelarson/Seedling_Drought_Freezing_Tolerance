@@ -1,23 +1,22 @@
 # Seedling_Drought_Freezing_Tolerance
-This repository contains code and data to conduct analyses and create figures included  in the following manuscript: 
+TThis repository contains code and data to conduct analyses and create figures included in the following manuscript:
 
 Functional traits can explain coordinated seedling responses to drought and freezing stress.
 
-Author Names:
-Julie E. Larson*1,2, Bradley J. Butterfield3, Seth M. Munson4, Dylan F. Neuhaus1,5, Stella M. Copeland1
+Author Names: Julie E. Larson*1,2, Bradley J. Butterfield3, Seth M. Munson4, Dylan F. Neuhaus1,5, Stella M. Copeland1
 
-Author Institutions and Addresses:
-1USDA-Agricultural Research Service, Eastern Oregon Agricultural Research Center, Burns, OR, 97720, USA
-2Present address: School of Environmental and Forest Sciences, University of Washington, Seattle, WA, 98195, USA
-3Department of Biological Sciences, Northern Arizona University, Flagstaff, AZ, 86011-5640, USA
-4U.S. Geological Survey, Southwest Biological Science Center, Flagstaff, AZ 86001, USA
-5Present address: University of Central Arkansas, Conway, AR, 72035, USA
-*Corresponding Author: larsonju@uw.edu
+Author Institutions and Addresses: 
+1USDA-Agricultural Research Service, Eastern Oregon Agricultural Research Center, Burns, OR, 97720, USA 
+2Present address: School of Environmental and Forest Sciences, University of Washington, Seattle, WA, 98195, USA 
+3Department of Biological Sciences, Northern Arizona University, Flagstaff, AZ, 86011-5640, USA 
+4U.S. Geological Survey, Southwest Biological Science Center, Flagstaff, AZ 86001, USA 
+5Present address: University of Central Arkansas, Conway, AR, 72035, USA 
+*Corresponding Author: [larsonju@uw.edu](mailto:larsonju@uw.edu)
 
+This study analyzes how traits, phylogenetic relatedness, and climate niche explain variation in seedling drought and freezing tolerance.
 
-This study analyzes how traits, phylogenetic relatendness, and climate niche explain variation in seedling drought and freezing tolerance. 
+The repository contains R scripts that separately generate several species-level metrics (e.g., climate niche, phylogenetic relatedness scores, drought and freezing tolerance) as well as a cross-data analysis that unites these species-level metrics to generate the analyses and figures in the main text.
 
-The respostiory contains R scripts that sepearately generate several species-level metrics (e.g., climate niche, phyogenetic relatedness scores, drought and freezing tolerance) as well as a cross-data analysis that unites these species'-level metrics to generate the analysese and figures in the main text.
 
 *Source of response variables for analysis:* 
 1) Lethal freezing temperatures: Generated in freezing_tolerance.R
